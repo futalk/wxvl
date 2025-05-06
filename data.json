@@ -13659,5 +13659,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096211&idx=2&sn=439ab06d63daa827f1cb7e56be548b51": "Windows 部署服务中发现新漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503352&idx=1&sn=283ef81dee566006f482ac1dc2eaec42": "安全热点周报：邮件远程代码执行漏洞遭利用，用于攻击日本机构",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496385&idx=1&sn=136a4278dd358937e1439af867ed8e16": "【论文速读】| 通过整体神经符号方法实现自动静态漏洞检测"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496385&idx=1&sn=136a4278dd358937e1439af867ed8e16": "【论文速读】| 通过整体神经符号方法实现自动静态漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626698&idx=2&sn=ce3504318ade61d17659729c035307ec": "Chrome浏览器惊现高危漏洞！天擎漏洞攻击防护第一时间提供安全保障",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506314&idx=1&sn=5a420046bf7d15da0d18e5b26275ec01": "每周网安资讯 （4.28-5.6）|DragonForce勒索团伙近期针对英国零售业发动大规模攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490830&idx=1&sn=77539c110a925cecffdceeaaf4bccf96": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484222&idx=1&sn=513666d7126d02a4b8bdeb0e966ddf3c": "基于 LNK 快捷方式获取Windows NTLM的 漏洞（无需运行，已复现！）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491238&idx=1&sn=172270b5a7a5a9b0072cdfa4fa8fb57a": "最新Nessus2025.5.7版本主机漏洞扫描∕探测工具Windows∕Linux下载",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488445&idx=1&sn=e9e238c8521aec39f247c6cfbfaf041f": "Craft CMS generate-transform接口存在远程命令执行漏洞CVE-2025-32432 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485773&idx=1&sn=e57e9c5f49b3dd80fbb694ec5e14250b": "金和JC6协同管理平台 oaplusrangedownloadfile 任意文件下载漏洞"
 }
