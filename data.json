@@ -13718,5 +13718,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490387&idx=1&sn=a2bfa25172a3a206f17fa4be6e6d22e7": "【风险通告】Elastic Kibana存在原型污染致任意代码执行漏洞（CVE-2025-25014）",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496394&idx=1&sn=d001c2e4d819caee3d146316286f59e5": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626707&idx=2&sn=014812173bfbd41a4f5993a72639e999": "Chrome浏览器高危漏洞已被黑客利用，奇安信可信浏览器为企业撑起“安全伞”"
+    "https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247626707&idx=2&sn=014812173bfbd41a4f5993a72639e999": "Chrome浏览器高危漏洞已被黑客利用，奇安信可信浏览器为企业撑起“安全伞”",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488057&idx=1&sn=3f3aeb579ab406fe8f47558d666d502b": "znlinux linux全架构全漏洞提权程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=2&sn=69f3bc42c70c19053f7e3ff730849186": "【论文速读】| 漏洞放大：针对基于LLM的多智能体辩论的结构化越狱攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485311&idx=1&sn=6cf446fe3a9deb2ffcb471aaae73cecb": "CVE-2025-2905（CVSS 9.1）：WSO2 API 管理器中发现严重 XXE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519289&idx=1&sn=1699b806a26022b3a7f1bd3876f20717": "实战攻防之Nacos漏洞一文通",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486422&idx=1&sn=3811dd4823e37100c77350dcd6521da5": "一次某info开源系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490864&idx=1&sn=0cb165bed1319669958344fa0fdcd7e8": "【漏洞预警】Kibana 原型污染导致执行任意代码漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484949&idx=1&sn=c37eaf049f706e55ef603f83649e7e1b": "Dify 组合漏洞获取LLM KEY",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486490&idx=1&sn=9815d6f53761ca0d636b6e2ecf4208d2": "一次某info开源系统漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069486&idx=3&sn=4f5c262b7363fc3d020faaae04c66c05": "【安全圈】未经身份验证的 DoS 漏洞导致 Windows 部署服务崩溃，目前尚无补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）"
 }
