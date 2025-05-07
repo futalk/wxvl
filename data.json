@@ -13690,5 +13690,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512001&idx=1&sn=98b2fa4a434cd4697a9ca5724fb4b5ba&subscene=0": "AOSP OTA签名验证漏洞——如何绕过Android系统更新包的安全检查？",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487854&idx=1&sn=8cab3e5521e4d13010f4321675d51585": "立即更新！Google修复已被攻击者利用的Android高危漏洞（CVE-2025-27363）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593294&idx=2&sn=902d175508a60f0517069a960b940b64&subscene=0": "微软 Telnet 服务器惊现 0Click 重大漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484947&idx=1&sn=35b767bcc73cac5983a53cd1a46af8dd": "若依(RuoYi)框架漏洞战争手册"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484947&idx=1&sn=35b767bcc73cac5983a53cd1a46af8dd": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490851&idx=3&sn=b2361c95695a8d9de2a17e76a812fc28": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795021&idx=3&sn=879212b268b99fe37554af345c9582c3": "三星MagicINFO漏洞在PoC发布几天后被利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=2&sn=0baa28b11a133d27696fb48799898d9a": "Apache Parquet Java 漏洞 CVE-2025-46762 使系统暴露于远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610510&idx=4&sn=9d3f3190409ef7ccce68548f15cfd1cb": "基于AWVSapi实现的漏洞扫描网站",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261002&idx=1&sn=0fa057549bf78b2354de47ae7cd46b59": "价值2500 美元的漏洞：通过供应链攻击实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491366&idx=1&sn=ed90802522084f51539954e091d9b130": "用友NC ncmsgservlet 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069467&idx=4&sn=82381e377828001cba5f1b8b0cd0bdf1&subscene=0": "【安全圈】CVE-2025-21756：Linux 内核漏洞如何导致完全 root 权限利用，PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484572&idx=2&sn=1fce16454055968fb3e2f4aceba81a32": "CVE-2025-24071：通过 RAR∕ZIP 提取和 .library-ms 文件泄露 NTLM 哈希值",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247498692&idx=3&sn=69326d8c536920e7fa412720fdb23bb2": "PoC | 三星 MagicINFO 9 服务器中的漏洞 (CVE-2024-7399) 被利用"
 }
