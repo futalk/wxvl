@@ -13730,5 +13730,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486490&idx=1&sn=9815d6f53761ca0d636b6e2ecf4208d2": "一次某info开源系统漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069486&idx=3&sn=4f5c262b7363fc3d020faaae04c66c05": "【安全圈】未经身份验证的 DoS 漏洞导致 Windows 部署服务崩溃，目前尚无补丁",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501043&idx=2&sn=f13209a4ac885ea075fdbfedc8ce007a": "【漏洞通告】Kibana 原型污染导致任意代码执行漏洞 (CVE-2025-25014)",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211442&idx=1&sn=ad5cdef821d42e8678b65093911154e3": "JSONP劫持漏洞攻防指南"
 }
