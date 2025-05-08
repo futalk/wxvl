@@ -13755,5 +13755,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=4&sn=40dd947a49deeeac2d77c26174e7aa14": "Play勒索软件团伙利用零日漏洞部署恶意程序",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=3&sn=00dc9443028818fad58e65c958c42e65": "三星MagicINFO漏洞在概念验证利用代码公开数日后遭攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50&subscene=0": "RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50&subscene=0": "RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484444&idx=1&sn=85b9fad1ca755cc210ad963d5e54588f&subscene=0": "超越漏洞修复的安全观",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=1&sn=230244deecf9efb66a5cbf8858f10871": "某CRM系统前台RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490893&idx=3&sn=8c454b770827b4795c8897bd5e157df6": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490053&idx=2&sn=e1fa7a6beecbecd929a120e00f53677d": "【高危漏洞预警】Microsoft Azure AI Bot Service权限提升漏洞CVE-2025-30392",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503391&idx=1&sn=f8b5ece2bc2ee173a9f4c33b8b2e6ce6&subscene=0": "雷神众测漏洞周报2025.4.28-2025.5.5",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499063&idx=1&sn=3396c01db284160ff26017eae2990463": "通过代理实现代码执行 - DLL劫持的另一种方式",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533541&idx=1&sn=715a139cafbc35e828ddb3d7abf30c5e": "斗象科技连续4年获国家信息安全漏洞库CNNVD“一级技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5&subscene=0": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484538&idx=1&sn=59f432e51500e860d74ce85acaee3dd1": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE"
 }
