@@ -13765,5 +13765,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533541&idx=1&sn=715a139cafbc35e828ddb3d7abf30c5e": "斗象科技连续4年获国家信息安全漏洞库CNNVD“一级技术支撑单位”",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=1&sn=d6e3777945383ca1a0f8df487903c8e5&subscene=0": "严重的Langflow RCE 漏洞被用于攻击AI app 服务器",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484538&idx=1&sn=59f432e51500e860d74ce85acaee3dd1": "命令执行不出网、无回显、连基础工具base64∕xxd都没有？极限生存下的命令执行，怎么打？",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506211&idx=1&sn=26660b6abe5fb1714974c19b983a63f0": "AI自动化代码审计RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491095&idx=1&sn=8c0720271ea656fc753561a44d768125": "某OA代码审计之挖掘0day，未公开poc",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQ0Mjc5NA==&mid=2649768949&idx=1&sn=1ecde373bf55882e9275155658f9e50d": "原力金智SRC上线漏洞盒子 | 「企业SRC」新住客",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462844&idx=1&sn=16f905bb023c4905a56d59c04da30a11": "信息安全漏洞月报（2025年4月）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489715&idx=1&sn=edaedaf50d5c0de6782c8eac9eae3970": "WordPress TargetSMS 插件存在前台代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484826&idx=1&sn=0ab9bc7eafadb32a2dce9850874b4ffa": "安全漏洞防治工作的挑战与解决方案：从CVE停更到可信计算环境构建",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554773&idx=2&sn=286e5211128b34b989a4a5a82838e9c8": "【免费领】大佬挖洞秘笈：全网最详尽的漏洞挖掘实战技巧大全",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）"
 }
