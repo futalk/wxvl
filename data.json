@@ -13732,5 +13732,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529605&idx=1&sn=6fa3721d92926efa358777464843d15f": "SysAid 本地预授权 RCE 链（CVE-2025-2775 及其相关漏洞）- watchTowr 实验室",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516589&idx=1&sn=82e60d5e426e05d401c4e79eec81d652": "漏洞扫描工具 -- ThinkPHPKiller（5月6日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501043&idx=2&sn=f13209a4ac885ea075fdbfedc8ce007a": "【漏洞通告】Kibana 原型污染导致任意代码执行漏洞 (CVE-2025-25014)",
-    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211442&idx=1&sn=ad5cdef821d42e8678b65093911154e3": "JSONP劫持漏洞攻防指南"
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211442&idx=1&sn=ad5cdef821d42e8678b65093911154e3": "JSONP劫持漏洞攻防指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484530&idx=1&sn=2d6ab693e8237d9ae98438818ba781f9": "phpIPAM跨站脚本漏洞及解决方法（CNVD-2025-06929、CVE-2024-55093）",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497440&idx=1&sn=31f4a4d8d75b507676f36e255eab63c3": "【漏洞通告】Kibana原型污染导致任意代码执行漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=1&sn=4ea3e89bd548586c3a916e5ac42e0404": "支付类漏洞挖掘技巧总结",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795032&idx=2&sn=e9e09cc70275edb332e37d3341f2657f": "赛门铁克称，多个勒索软件组织利用了最近修补的 Windows 0day（CVE-2025-29824）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492052&idx=1&sn=e219ac550df60a2a73d39aa6f6b987b5": "《跨机房漏洞扫描挑战、设备使用人管理优化及审计账号权限分配策略解析》｜总第288周",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=3&sn=02acc8d19b6d3162024d3a9f48bccc1c": "漏洞预警 | 通达OA远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494567&idx=1&sn=052cbf0cb30bdebf35ee81f84c1b946a": "工具推荐 | MSSQL多功能集合命令执行利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术"
 }
