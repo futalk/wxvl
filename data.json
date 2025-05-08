@@ -13741,5 +13741,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=3&sn=02acc8d19b6d3162024d3a9f48bccc1c": "漏洞预警 | 通达OA远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU0NjU5NDE4Mg==&mid=2247485602&idx=1&sn=f004f26af0ff476bc38a0ad5d35d5976": "EMQX命令执行后渗透",
     "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494567&idx=1&sn=052cbf0cb30bdebf35ee81f84c1b946a": "工具推荐 | MSSQL多功能集合命令执行利用工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487228&idx=2&sn=b9686feeabeb4a384bec87e310213972": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503359&idx=1&sn=3976329cdddd018ab4307524061b68c0&subscene=0": "Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25014)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=1&sn=e403ede2a981aa23d95670c6be53a975": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487859&idx=1&sn=21830632f377e379519f4f69bf29a29b": "紧急！SysAid On-Premise曝高危漏洞，未授权攻击可接管服务器！速修复！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247522938&idx=2&sn=d6e089276d9d14177da8b1d1e1d32736&subscene=0": "谷歌修复安卓遭活跃利用的 FreeType 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493056&idx=2&sn=1cd36807eb2525ca7a869ed2146996c1": "漏洞预警 | 锐捷EWEB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491374&idx=1&sn=96d62a86f1515d0b75406b84f40953c2": "用友NC files 反序列化RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=2&sn=3ff46263da891e1311e88fecaa375742": "Canary Exploit工具可检测受Apache Parquet漏洞影响的服务器",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593301&idx=1&sn=28d71b01d0207906a35a3882f88828de&subscene=0": "使用区间分析识别智能合约中的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=1&sn=9f712f2d6d7e8441f4b26a89e1b38c9c": "专家警告称，针对SAP NetWeaver漏洞CVE-2025-31324的第二波攻击正在袭来",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486425&idx=1&sn=f0097b5f133b5a4c9bf1ec100e8d6e55": "某CRM系统前台RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486564&idx=1&sn=69697bc2be8941f7488755d9c6ad8bce": "警惕|Play Ransomware 利用 Windows CVE-2025-29824实施勒索攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=4&sn=40dd947a49deeeac2d77c26174e7aa14": "Play勒索软件团伙利用零日漏洞部署恶意程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493781&idx=3&sn=00dc9443028818fad58e65c958c42e65": "三星MagicINFO漏洞在概念验证利用代码公开数日后遭攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497563&idx=1&sn=ceaea8297e93659498c5576678d85f50&subscene=0": "RCE"
 }
