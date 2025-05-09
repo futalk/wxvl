@@ -13795,5 +13795,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487237&idx=2&sn=5334c3b046990084903fd1c13c72d3c0": "支付类漏洞挖掘技巧总结",
     "https://mp.weixin.qq.com/s?__biz=MzkxODQzOTYxMQ==&mid=2247483896&idx=1&sn=6cb883625f1ea191a575188e8f62fe6e": "常见的信息泄露漏洞挖掘（第二部分）",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520404&idx=1&sn=e8a6e80ecf53ea04e94d8c714c68928e": "AI的攻与防：基于大模型漏洞基因库的威胁狩猎与企业级纵深防御",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069510&idx=4&sn=13e42b32cf0c000f6d63304e4a836f24": "【安全圈】SonicWall SMA 100系列发现多个漏洞紧急安全更新"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069510&idx=4&sn=13e42b32cf0c000f6d63304e4a836f24": "【安全圈】SonicWall SMA 100系列发现多个漏洞紧急安全更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493792&idx=1&sn=a89a0fa01c39e64a57ad642a05f14904": "思科发布IOS XE无线控制器中的关键漏洞更新",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491097&idx=1&sn=ce5a9d032e7a62b5edd058ea86bc7ff6": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497567&idx=1&sn=0abc159207103dccd3e73039c850bf2a&subscene=0": "一次十分详细的漏洞挖掘记录,新思路+多个高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489277&idx=1&sn=6c55779812dc46ead6693965106dd9ed&subscene=0": "【漏洞通告】Elastic Kibana原型污染致任意代码执行漏洞（CVE-2025-25014）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247490921&idx=3&sn=d0684326d1fe6ee4aa19ed36bb064268": "栈溢出从复现到挖掘-CVE-2018-18708漏洞复现详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTMyOTg4NQ==&mid=2247484536&idx=1&sn=65fffa821513f4963041e2a504f1d07c": "YzmCMS最新跨站脚本漏洞及解决方法（CNVD-2025-08792、CVE-2025-3397）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610538&idx=3&sn=d70828a5aac5511a179d1b11a8ebd633": "实战攻防之Nacos漏洞一文通",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549838&idx=1&sn=1589f72d6458104c54add6c222ed1b7b": "Clash Verge rev提权与命令执行分析"
 }
