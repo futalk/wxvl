@@ -13820,5 +13820,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320545&idx=1&sn=ad3eabe16fc21bfd8a2813c78951fd20": "AI生成虚假漏洞报告污染漏洞赏金平台",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069525&idx=4&sn=a0ceb517f0bd46bd1296a5aa917fbf4c": "【安全圈】Cisco IOS XE WLC 中的关键 CVE-2025-20188 (CVSS 10) 缺陷允许远程根部访问",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492196&idx=1&sn=fcfa14e51c4953a578125b94eecc539a": "【原创漏洞】AOSP跨用户资源访问漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593398&idx=2&sn=37e1aae01543dd7d70cdf78802000f93": "思科紧急修复致命漏洞，黑客可借此全面接管设备"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458593398&idx=2&sn=37e1aae01543dd7d70cdf78802000f93": "思科紧急修复致命漏洞，黑客可借此全面接管设备",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247484984&idx=1&sn=997d6624942661f938be7632e0642bb1": "健康证泄露导致的越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247484976&idx=1&sn=6f68502e14ea7cd7b9cbb0cac874a1e7": "思路清晰，我是菜B，8小时爆肝windows 32位syncbreeze缓冲区溢出漏洞复现"
 }
