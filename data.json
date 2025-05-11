@@ -13857,5 +13857,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247549854&idx=1&sn=443df06051542ef0a63b806e2c0237ad": "挖洞日记 | 记一次不断FUZZ拿下高危越权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484664&idx=1&sn=20614437f6665e2bcb3a7b89fa5a26e1": "Clash verge 漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485599&idx=1&sn=3a48cab83ec961c96ff5843d9ebfe0d1": "任意文件读取漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503235&idx=1&sn=71f55f311c5c308014a3271e92332314": "【成功复现】DocsGPT远程代码执行漏洞 (CVE-2025-0868)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503235&idx=1&sn=71f55f311c5c308014a3271e92332314": "【成功复现】DocsGPT远程代码执行漏洞 (CVE-2025-0868)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502141&idx=1&sn=f372a42f927527cbe6c164a6df175c6e": "【CTFer成长之路】零元购逻辑漏洞"
 }
