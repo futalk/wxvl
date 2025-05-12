@@ -13893,5 +13893,22 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247520664&idx=1&sn=044f7d50080beb92c62e88acfc47a74b": "攻防实战之若依(RuoYi)框架漏洞战争手册",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529742&idx=1&sn=05006a4350851e5b33b7b94c4b210209": "华硕预装驱动软件中的一键RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506353&idx=1&sn=b111464761306e4cdef6942d7c25b2e6": "绕过公共漏洞赏金计划中的双重身份验证：6000 美元的旅程",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491394&idx=1&sn=566d2e6354be172fb93b1dd559dd9e7a": "WordPress depicter插件 Sql注入漏洞 (CVE-2025-2011)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491394&idx=1&sn=566d2e6354be172fb93b1dd559dd9e7a": "WordPress depicter插件 Sql注入漏洞 (CVE-2025-2011)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503405&idx=1&sn=754e4027a04e293d322951ef9459a759": "雷神众测漏洞周报2025.5.6-2025.5.11",
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491295&idx=1&sn=2ce93316cb050e3d1f782d51d690f3c2": "【粽情挖洞，安全有礼】端午漏洞征集限时活动",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320651&idx=4&sn=ca11388befebb3d9c7b26b8d6613320c": "CVE-2024-26809利用nftables双重释放漏洞获取Root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490063&idx=1&sn=71ddc34040472ba7796d80bbb3c26ded": "【漏洞预警】Docker Desktop信息泄露漏洞(CVE-2025-1696)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484552&idx=1&sn=1ee3c075f613bc32d6e16056d4853c1e": "【1day】⼤华智慧园区综合管理平台⽂件上传(CNVD2024-35419)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzk2MzA3Nw==&mid=2247483873&idx=1&sn=01fb3cb887b2977a4e591ce31def958a": "分享一下我的漏洞挖掘经验",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320651&idx=1&sn=a9fab4722bc9ee9e63256b7a44cdc041": "包教包会包分配项目，单月斩获漏洞赏金2.7W！",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503364&idx=1&sn=968cb69c0ddb2c38d3e1d4010982f52d": "安全热点周报：谷歌修复了 Android 上被积极利用的 FreeType 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjQyMjcwMw==&mid=2247487118&idx=1&sn=db8d31dd45b7f9d811c16cd6ab509875": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485370&idx=1&sn=58f7ffdd233dd85a234cc68e79031668": "java代码审计之常见漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491413&idx=1&sn=7c487ebccfb80ebbaf53c9b38bc9cd92": "EKing-管理易 FileDownload 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495969&idx=2&sn=09773aee69062908205a5dc12cb4e5d8": "上周关注度较高的产品安全漏洞(20250428-20250511)",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260150&idx=1&sn=cc1d04b8599cef6f24e96a146cf79b33": "SAP NetWeaver漏洞利用进入第二波威胁活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485083&idx=1&sn=cb851893d4ab208b12e467f1dfd3fd6c": "一次edu站点从前台sql注入到后台rce",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491404&idx=1&sn=b231b39f572b21cdd7e46610b18945db": "万户OA DocumentHistory.jsp sql注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484833&idx=1&sn=d32d5cc98dc1fd66b148a04558efefb5": "安全漏洞管理的4个常见误区",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489143&idx=1&sn=a25daaef4ea1b09e23bb13790cd43410": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述"
 }
