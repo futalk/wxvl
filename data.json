@@ -13883,5 +13883,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492026&idx=1&sn=a45585cfb3c85bb1d0d2101a1ff10b41&subscene=0": "CVSS 10 满分漏洞：CVE-2025-32432 Craft CMS RCE 及未公开利用链深度解构",
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247485838&idx=1&sn=ae663c70dc4614970989937a04f57533": "一篇文章带小白从原理到靶场练习搞懂RCE命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624248&idx=3&sn=be8ad60aa7b6c6aa5bfcdde292be12c9": "人工智能自动化模糊测试：如何自主发现汽车软件中的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499641&idx=3&sn=d7f3a802ba857dfd318ec850e660210b&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499641&idx=3&sn=d7f3a802ba857dfd318ec850e660210b&subscene=0": "从 .NET 代码审计看 ViewState 反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247504085&idx=1&sn=239026232f4f48370ade47ad2abc16c3": "中国信通院【首批】软件供应链漏洞管理平台能力评估开始报名！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486722&idx=2&sn=1bf1055c7e8f552d6cebc52ac371f067": "【漏洞通告】D-Link DIR-605L 无线路由器缓冲器溢出(CVE-2025-4441)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524522&idx=2&sn=ca11f0d3dad8a00fffcc89d0d8a351d9": "漏洞预警：CVE-2024-26809利用nftables双重释放漏洞获取Root权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582297&idx=1&sn=5904ff9bef31b689ef0b942ff6255ef6": "DragonForce勒索团伙正有计划地扩展其他勒索软件组织",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486722&idx=1&sn=ffcd556730cb1d6f9b0d41145d828e52": "【漏洞通告】Sourcecodester在线大学图书馆系统 SQL注入(CVE-2025-4504)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486428&idx=1&sn=8039e2d3e7d267a1787f63dfd9330edb": "猎洞时刻漏洞挖掘SRC培训第三期塞满干货来袭！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247520664&idx=1&sn=044f7d50080beb92c62e88acfc47a74b": "攻防实战之若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247529742&idx=1&sn=05006a4350851e5b33b7b94c4b210209": "华硕预装驱动软件中的一键RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506353&idx=1&sn=b111464761306e4cdef6942d7c25b2e6": "绕过公共漏洞赏金计划中的双重身份验证：6000 美元的旅程",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491394&idx=1&sn=566d2e6354be172fb93b1dd559dd9e7a": "WordPress depicter插件 Sql注入漏洞 (CVE-2025-2011)"
 }
