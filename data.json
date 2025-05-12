@@ -13910,5 +13910,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485083&idx=1&sn=cb851893d4ab208b12e467f1dfd3fd6c": "一次edu站点从前台sql注入到后台rce",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491404&idx=1&sn=b231b39f572b21cdd7e46610b18945db": "万户OA DocumentHistory.jsp sql注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484833&idx=1&sn=d32d5cc98dc1fd66b148a04558efefb5": "安全漏洞管理的4个常见误区",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489143&idx=1&sn=a25daaef4ea1b09e23bb13790cd43410": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489143&idx=1&sn=a25daaef4ea1b09e23bb13790cd43410": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzg3NTcxNg==&mid=2247484959&idx=1&sn=393434f787d1c695cf4d073bf971946f": "小皮面板从未授权到RCE"
 }
