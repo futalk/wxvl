@@ -13973,5 +13973,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491036&idx=2&sn=b28468700c3d8e0143e71992e09f9b46": "客户端漏洞在红蓝对抗中的挖掘与利用",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486256&idx=1&sn=6d54c27fcb11601360b8cd9f78378d3b": "客户端漏洞在红蓝对抗中的挖掘与利用",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069614&idx=4&sn=2cdeb6fe56f376c6209155e17e0eaa4d": "【安全圈】华硕DriverHub漏洞致高危攻击：恶意网站可获取管理员权限",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652038813&idx=1&sn=f6826bf0a4cb730ac784ca575f2ba577": "安卓逆向 -- 分析某库登录逻辑以及协议复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=2&sn=e1899b18ec36c06a4bbd6b924614466c": "漏洞预警 | 上海华测监测预警系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493832&idx=1&sn=f0357d059b70ff22429fd8d12ffcddfc": "苹果发布安全更新以修复iOS和macOS中的多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488105&idx=1&sn=7cbab519421b3059382e13368679c7dd": "Yakit + xray联动探测漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247509901&idx=1&sn=82924217b6f5f44e7c144b66d583231f": "英特尔处理器“幽灵”漏洞防御机制再遭突破：分支预测竞争条件引发新型攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=3&sn=29972f15447bee7aada4615991d82681": "漏洞预警 | 灵当CRM任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651320691&idx=3&sn=68ed4c2a830801d5a9cee49cec544119": "macOS远程视图服务沙箱逃逸漏洞PoC公开，攻击者可突破系统限制",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487334&idx=4&sn=b3346ca5192aa5b3e889435ad246be82": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655278705&idx=1&sn=616ce013a80dd8a9c8492c7fe57592f2": "100页PPT Web漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487334&idx=2&sn=103f1eea080d4d9426b63198942ad6db": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493115&idx=1&sn=c6eb1e1604d1458fb33d362903411604": "漏洞预警 | 致远OA代码注入漏洞"
 }
