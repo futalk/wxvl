@@ -14071,5 +14071,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487913&idx=1&sn=0db1eec755d8ba897d36b6f2251802ef": "如何从漏洞POC或者EXP代码中学习漏洞原理？",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503400&idx=1&sn=a3ed07a0c534855161deb71b6a0642e4": "【已复现】Google Chrome 跨源数据泄露漏洞(CVE-2025-4664)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554835&idx=2&sn=b9c7cb6e4f22e9ff0ff4a87b68990359": "附下载 | 小米科技杨一帆：智能汽车渗透实战：从漏洞挖掘到控车攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496579&idx=1&sn=2b6a6405c0de361cc29cd59b890bd3d0": "Node.js 高危漏洞警报(CVE-2025-23166)：可导致远程系统崩溃"
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496579&idx=1&sn=2b6a6405c0de361cc29cd59b890bd3d0": "Node.js 高危漏洞警报(CVE-2025-23166)：可导致远程系统崩溃",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=2&sn=8bd082f51f27793a8fcd335bd8be4120": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491441&idx=1&sn=5dabd391edb7a3464fe39024cf3b6287": "原创先锋 后台管理 存在未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)"
 }
