@@ -14074,5 +14074,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496579&idx=1&sn=2b6a6405c0de361cc29cd59b890bd3d0": "Node.js 高危漏洞警报(CVE-2025-23166)：可导致远程系统崩溃",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651462992&idx=2&sn=8bd082f51f27793a8fcd335bd8be4120": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491441&idx=1&sn=5dabd391edb7a3464fe39024cf3b6287": "原创先锋 后台管理 存在未授权访问漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486686&idx=1&sn=3275924bc00806abd77ad46c738de75d": "【漏洞预警】Node.js 异步加密错误处理不当漏洞(CVE-2025-23166)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519311&idx=1&sn=6e0d226f8520843b8b9111e1f0d94147": "【SRC实战】一次空白页面的“妙手回春”变严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491447&idx=1&sn=62d0d1d5d519b3e8110257ee76aa9b05": "【1周年庆】致Nday Poc全体成员的一封信",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494623&idx=1&sn=7e704834297972659a95a52b35a944e4": "工具推荐 | 临兵漏洞自动化扫描系统",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664242573&idx=1&sn=4809b1ead0dc8205687720e92040922f": "CNNVD | 关于微软多个安全漏洞的通报"
 }
