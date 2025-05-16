@@ -14127,5 +14127,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069664&idx=3&sn=ce9e58eb83ca29b12fe8053876e1d3a4": "【安全圈】网络安全事件周报：勒索组织与国家级黑客同时盯上SAP漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486688&idx=1&sn=75f519098b5ec8f6c3615719e2290902": "【漏洞预警】Apache IoTDB 远程代码执行漏洞(CVE-2024-24780)",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490089&idx=1&sn=6b1860a17c9b2a8d1ea405b92acaaa03": "【高危漏洞预警】Fortinet多款产品缓冲区溢出漏洞(CVE-2025-32756)",
-    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491104&idx=1&sn=4d720b1891187d32013cfeafe3970571": "能信安：漏洞通告"
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491104&idx=1&sn=4d720b1891187d32013cfeafe3970571": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516636&idx=1&sn=b6f314f0ad1fc3ec3d30099af4ec510e": "Nacos Derby命令执行漏洞利用脚本（5月15日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486125&idx=1&sn=5a77bc1e5cbec31ee8123a012c212633": "突发！APT组织利用零日漏洞，竟对伊拉克库尔德武装展开 “隐秘监视”！",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496246&idx=1&sn=13504d1d456d9883672e9ac62eef522c": "漏洞研究(8)：XXL-JOB调度中心后台日志查看SSRF漏洞 CVE-2022-43183",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512206&idx=1&sn=ad2141c2128b2f8528b26d3a1057ee93": "Apache Roller高危漏洞（CVE-2025-24859）曝光，用户需立即采取行动！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247485059&idx=1&sn=a390ae32a65fad7f877be099a0ef3929": "【免杀现】白加黑也不一定是exe+dll哟",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497600&idx=1&sn=1969c3c056630d43062c8ba9092c06da": "一次获取RCE以及提权到root权限的渗透过程",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491125&idx=1&sn=cc28f1cd5e0286af9d09afab81ab612b": "我在马路边，捡到两年前的RCE了",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485388&idx=1&sn=41c66e99136de139308d373fae0b8957": "Apache Roller高危漏洞CVE-2025-24859深度解析：会话劫持威胁企业安全"
 }
