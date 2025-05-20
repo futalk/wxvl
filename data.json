@@ -14279,5 +14279,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=1&sn=e9577cbfc42d88f3379443abc9ae10f7": "HackProve国际漏洞狂飙赛来袭！奖金翻倍、积分冲榜，全球开启！",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497628&idx=1&sn=61a9e680026304bda5658427d781b52b": "RCE",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651136902&idx=2&sn=5c62a5d8b7822d419bd155094dfa73a3": "大众汽车应用程序再曝安全漏洞，泄露车主敏感信息；410GB TeleMessage泄露数据被DDoSecrets收录 | 牛览",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487145&idx=1&sn=c089110d0633e7f0798f8191da30eaef": "商用漏洞扫描器的盲区：为什么越权漏洞总被漏检？",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=1&sn=e436f090f20203dae2788470d2e830f7": "Gnu Glibc 逻辑缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=2&sn=e08d06704ad18be109b3687efc5c973a": "Ivanti Endpoint Manager Mobile 需授权 代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501349&idx=1&sn=59bf10bba063b60bdb410a2b2227295e": "漏洞速递 | CVE-2025-29927漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692": "Nodejs Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490103&idx=1&sn=432278ec94ada797568108539241ac0b": "【AI漏洞预警】Infiniflow Ragflow账户接管漏洞CVE-2025-48187",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞"
 }
