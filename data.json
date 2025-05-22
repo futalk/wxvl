@@ -14338,5 +14338,22 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321451&idx=3&sn=821456f16440650fb03a4c3b61a55746": "vLLM 曝高危远程代码漏洞，AI 服务器面临攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489775&idx=1&sn=3ed3caadde8d55b8bc21e59f7074c953": "某礼品卡电子券收卡系统存在前台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544884&idx=1&sn=82fe2afa774e253e020af6d28ecf0d9e": "【渗透实战系列】|54-小程序渗透记录 通过细节挖掘漏洞的艺术"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544884&idx=1&sn=82fe2afa774e253e020af6d28ecf0d9e": "【渗透实战系列】|54-小程序渗透记录 通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503322&idx=1&sn=f502a2413a0ef8a73683a55f569d135d": "【成功复现】Gladinet CentreStack反序列化漏洞(CVE-2025-30406)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501099&idx=2&sn=33695589e4a03b131b18ffb1a4373bdb": "【漏洞通告】VMware vCenter Server认证命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494686&idx=1&sn=1e20b9324dc3599560e8064fd4f47aa5": "工具推荐 | RCE命令无回显利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484099&idx=1&sn=658a1b6d2a58a76b2c10a229e1596104": "KEDACOM phoenix监控平台upload_fcgi任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484085&idx=1&sn=e447afc95940697dfe60767d5170f6ad": "【漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900577&idx=1&sn=c7f08fd41d1333cccb324baacf6a8b5d": "Samlify SSO 签名绕过 (CVE-2025-47949)：从XML签名本质到纵深防御",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490120&idx=1&sn=ad898403409d5bc4b04695a8210c42a3": "【高危漏洞预警】VMware VCenter Server 命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483853&idx=1&sn=e0efcfaf5be3978ccf6ebc28bde77a73": "代理工具 Clash Verge 客户端出现新的 1-Click 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=1&sn=9cc7fec6b77c1987729a9c01de53e3dc": "漏洞安全亦是国家安全|斗象晋级CNNVD国家漏洞库首批“核心技术支撑单位”",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490402&idx=1&sn=0be91c0559fd74fdaa7e1d690ce0605d": "【风险通告】VMware vCenter存在命令执行漏洞（CVE-2025-41225）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491702&idx=1&sn=cc0ac523b86b876c52a60d18ec785bc4": "某礼品卡电子券收卡系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485153&idx=1&sn=df4a9596cf936fe6efbd34bb4cd75520": "JWT原理及常见漏洞详解",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mjg4NTcyNg==&mid=2247490453&idx=1&sn=a2248851ef6d20228658802b570c5d56": "漏洞复现|无垠智能模糊测试系统实战复现OpenSSL高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497351&idx=1&sn=dbd0b485f6a94cd50d1e7225916730ce": "一款专为安全研究人员和白帽子设计的漏洞赏金工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554886&idx=1&sn=b92b2a11c128532122d5ca74de178e49": "域0day容易利用吗",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=1&sn=53658193138b944b76bad2de5c9801f5": "Setuptools 漏洞导致数百万 Python 用户易受RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096259&idx=2&sn=d8d2730e6657e88318f2e82adfe92123": "多个 GitLab 漏洞使攻击者能够发起 DoS 攻击"
 }
