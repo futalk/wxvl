@@ -14355,5 +14355,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497351&idx=1&sn=dbd0b485f6a94cd50d1e7225916730ce": "一款专为安全研究人员和白帽子设计的漏洞赏金工具",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554886&idx=1&sn=b92b2a11c128532122d5ca74de178e49": "域0day容易利用吗",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=1&sn=53658193138b944b76bad2de5c9801f5": "Setuptools 漏洞导致数百万 Python 用户易受RCE攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096259&idx=2&sn=d8d2730e6657e88318f2e82adfe92123": "多个 GitLab 漏洞使攻击者能够发起 DoS 攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096259&idx=2&sn=d8d2730e6657e88318f2e82adfe92123": "多个 GitLab 漏洞使攻击者能够发起 DoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523092&idx=2&sn=a5febb5cf97d5b007d31e1d71c58244a": "满分严重漏洞导致 MB-Gateway 设备易受远程攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247533628&idx=2&sn=44ccb79264efbbd0254cff57b4c4a08a": "2025攻防演练必修高危漏洞集合（1.0版）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530046&idx=1&sn=2eaab2ebd8595d1d3ddb332557c83a59": "CVE-2025-26147：Denodo Scheduler 中经过身份验证的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499166&idx=1&sn=b24591342347f5a63206029ea9b03872": "Microsoft Telnet 客户端 MS-TNAP 服务器端身份验证令牌漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490120&idx=2&sn=d9f4eab74bad4582854138a17f05b0a9": "【严重AI漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d": "Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428)"
 }
