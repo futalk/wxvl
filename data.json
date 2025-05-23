@@ -14362,5 +14362,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499166&idx=1&sn=b24591342347f5a63206029ea9b03872": "Microsoft Telnet 客户端 MS-TNAP 服务器端身份验证令牌漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519372&idx=1&sn=50db0c7ee25f800969366f8c73e9e310": "PDF 生成器漏洞利用：查找 PDF 生成器中 SSRF 漏洞的完整指南",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490120&idx=2&sn=d9f4eab74bad4582854138a17f05b0a9": "【严重AI漏洞预警】vLLM PyNcclPipe pickle反序列化漏洞（CVE-2025-47277）",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d": "Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491545&idx=1&sn=15d26045141557b049c60a4f0198973d": "Ivanti EPMM 未授权远程代码执行漏洞(CVE-2025-4428)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491624&idx=1&sn=d3d39952455d901dbe67aa71b6c396da": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测"
 }
