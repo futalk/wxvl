@@ -14382,5 +14382,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU4Mzc4MDQyOQ==&mid=2247484786&idx=1&sn=4e9778c996104c01de488b160caa5358": "Clash Verge 客户端 1-Click RCE 漏洞与蜜罐利用分析",
     "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796499&idx=1&sn=b7283c7a51235fe2e3c43d4fe4f742e2": "SAST国标分析︱灵脉AI深度兼容GB∕T 34943∕34944-2017源代码漏洞测试规范",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484091&idx=1&sn=3e944b94f1673ef22c24744564aa4aa6": "【漏洞复现】Grafana XSS &SSRF & 账户接管（CVE-2025–4123）",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523102&idx=2&sn=3eb6fe83ca06d69dbd0a16a7c73dcde3": "Grafana 紧急提前修复已被公开的XSS 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514405&idx=2&sn=95d5bbef875789924cf08280da99f6fe": "美国NIST、CISA联合提出漏洞利用概率度量标准"
 }
