@@ -14489,5 +14489,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526415&idx=1&sn=99f277b93b1a927837ff376f50d001af": "记一次实战小程序漏洞测试到严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483869&idx=1&sn=2d72368d0c27aad90b94fc523069a699": "研究者利用OpenAI o3模型发现Linux内核远程零日漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247486753&idx=1&sn=3abdaa3b245cc30c92e6322dcc3f1c70": "黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491219&idx=1&sn=971cf60237ff3d69e0428ef50a39f2fc": "白盒Sign加密到前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491219&idx=1&sn=971cf60237ff3d69e0428ef50a39f2fc": "白盒Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521136&idx=1&sn=e6e3e3b78b2343b548d40246af0c841f": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=2&sn=11426f6aaac01c747218a552ac6e5129": "GitLab Duo 漏洞可导致攻击者通过隐藏的提示劫持AI响应",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523124&idx=1&sn=1a8e46e871f1fae51bb1c752be774842": "CISA提醒注意已遭利用的 Commvault 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496521&idx=1&sn=441184115eaa124aa26bc2b165f7247b": "【论文速读】|基于大型语言模型的上下文增强漏洞检测",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503419&idx=1&sn=ec858e748fb40bf4b477958bc4ede59b": "雷神众测漏洞周报2025.5.19-2025.5.25",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=4&sn=7c4223920cb17acbc65fb665c7da7365": "Mesh Wi-Fi存在CVSS 9.1分高危漏洞，设计缺陷可被用于数据帧注入攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247492421&idx=1&sn=899c37a36234e4c8668f3f56303615fe": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173069&idx=3&sn=2d17e34234a8bcc099915e7259d98609": "通报丨ComfyUI存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495068&idx=1&sn=0103937e748038484a8b0477280bfba1": "2025攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7": "Apache Tomcat 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755": "若依Vue漏洞检测工具 - ruoyi-Vue-tools"
 }
