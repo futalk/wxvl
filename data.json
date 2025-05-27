@@ -14501,5 +14501,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=1&sn=208226258cd185a7acfbdbfd55481e6d": "【高危漏洞预警】Wing FTP Server安全漏洞CVE-2025-5196",
     "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495068&idx=1&sn=0103937e748038484a8b0477280bfba1": "2025攻防演练必修高危漏洞集合（2.0版）",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=2&sn=eacfc63c8ed2750785941e88c3fd39d7": "Apache Tomcat 允许远程执行代码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755": "若依Vue漏洞检测工具 - ruoyi-Vue-tools"
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486382&idx=1&sn=77eaf3570de212554a2bdba0e7f1d755": "若依Vue漏洞检测工具 - ruoyi-Vue-tools",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488502&idx=1&sn=c417e10a497251134c3d81775de5d501": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491246&idx=2&sn=f2821c44d28004e6cdeda1a403564f5f": "雷神众测漏洞周报2025.5.19-2025.5.25",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490142&idx=2&sn=1b3a904c690bb5f4b6fcc44d8df3cdca": "【漏洞预警】DedeCMS信息泄露漏洞(CVE-2025-5137)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321929&idx=3&sn=06c0967ba8410e5a847655591077514b": "Windows Server 2025 \"BadSuccessor\" 漏洞曝光，可导致域控接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650468805&idx=1&sn=3b1ae29229283c236d11a6e8d149bc7e": "十四年连冠｜绿盟漏洞扫描与管理产品再获佳绩",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc": "漏洞挖掘—利用查询功能获取敏感信息（3）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115908&idx=2&sn=367490ce902e04506aa0eeed4a4df3ab": "办公平台存在安全漏洞！某国有企业违反《网络安全法》被处罚",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=1&sn=de29f14ed3da4e130ab8507f590898de": "Arm Mali GPU 漏洞允许绕过 MTE 和任意内核代码执行漏洞"
 }
