@@ -14538,5 +14538,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514434&idx=2&sn=19b30608f4a701f991edf166024d4d6f": "北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=1&sn=0b31c80b87f34af3ab33021b8697920c": "紧急预警！Samlify SSO 签名绕过漏洞（CVE-2025-47949）解析与防御指南​",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493937&idx=1&sn=fd643ae0b90716be724efc591b46e96a": "DragonForce操作者利用SimpleHelp漏洞链式攻击某MSP服务商及其客户",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26": "CVE-2025-21298零点击漏洞深度解析"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26": "CVE-2025-21298零点击漏洞深度解析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=4&sn=e255487c860340a366b40b36be9e271d": "阿迪达斯数据泄露，第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600035&idx=2&sn=b9b9043eddaa948747563c1262352a9b": "北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247640068&idx=3&sn=3df2ba81a343350bbe1f28027c22b625": "Salesforce 将以 80 亿美元收购 Informatica",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932200&idx=1&sn=ead3dc6e3d8a36b05a1a74ecc1ddf4fc": "AI工具ComfyUI惊现多个高危漏洞，已有境外组织发起网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069865&idx=1&sn=e29ae988e9c671b37c0b95f70beaf6d5": "【安全圈】全球互联网因BGP协议漏洞出现大规模路由震荡",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488513&idx=1&sn=bf90fe02d66ceea05dd6891a66f0aff2": "PagerMaid-Pyro run_sh接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=1&sn=a781cae82004337aa46c61fb54bf864c": "GitHub MCP服务器漏洞使攻击者可访问私有代码库",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492603&idx=2&sn=013df9f9a54c65cd271466572626705e": "Windows Server 2025 \"BadSuccessor\"漏洞可导致域控接管（PoC已公开，暂无补丁）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=2&sn=30484ea29b1059a42eff9d3d3ccddf3a": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137030&idx=2&sn=466072b21f20a9efd87f6114ce1557f8": "NASA开源软件被曝存在多个安全漏洞；提示注入威胁：GitHub MCP服务器漏洞允许攻击者访问私有代码库 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523133&idx=1&sn=bf9dda6dcef75f6de012aa77866b6072": "DragonForce 勒索团伙瞄准MSP，发动供应链攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488566&idx=1&sn=02dcbc079feef0474efaac6fef9f91fc": "逐帧分析：Kernel Streaming 持续暴露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484490&idx=1&sn=1108796cd3681ad4d71bf145929026e2": "GitHub MCP Server漏洞：通过MCP访问私有仓库"
 }
