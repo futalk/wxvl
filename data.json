@@ -14510,5 +14510,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNjczNzgzMA==&mid=2247484564&idx=1&sn=6fb78c41406e38426eb86081c19246cc": "漏洞挖掘—利用查询功能获取敏感信息（3）",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652115908&idx=2&sn=367490ce902e04506aa0eeed4a4df3ab": "办公平台存在安全漏洞！某国有企业违反《网络安全法》被处罚",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096281&idx=1&sn=de29f14ed3da4e130ab8507f590898de": "Arm Mali GPU 漏洞允许绕过 MTE 和任意内核代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137007&idx=2&sn=1aaad1f68d3e1cc0bb3260721d30302c": "量子计算破解RSA加密难度降低20倍，后量子密码学迫在眉睫；国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 | 牛览"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137007&idx=2&sn=1aaad1f68d3e1cc0bb3260721d30302c": "量子计算破解RSA加密难度降低20倍，后量子密码学迫在眉睫；国家网络安全通报中心提醒：ComfyUI存在多个高危漏洞 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655280643&idx=1&sn=d29834cc9689633efe690b4732ccb92b": "2025 HVV必修高危漏洞集合2",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=3&sn=e60c83d9ba5b3fa37d698e3f080ff9af": "漏洞预警 | 用友U8Cloud任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493239&idx=2&sn=ea1367c3c4f9cfecdd1cd04ded2ceccb": "漏洞预警 | 智慧校园(安校易)管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499227&idx=1&sn=73bbfba76dd660bbc59316c7d3bfcd52": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497264&idx=1&sn=a416851315173135e64299b51984541c": "CVE-2024-45436:Ollama ZIP文件解压导致的命令执行漏洞"
 }
