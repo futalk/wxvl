@@ -14591,5 +14591,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485094&idx=1&sn=5e7af24dd9b1174661c3d7553be194bd": "端午活动开启！白盒+黑盒双修来袭！知名小朋友（代码审计）联手地图大师（企业SRC漏洞挖掘），端午节限时大放价！",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519554&idx=2&sn=763611f710fb28ec096e6967fe96f2e9": "ofcms的XXE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTk1NjM1MQ==&mid=2247487891&idx=1&sn=f5a635e1b59af1e7fa79da35637b1d98": "ByteSRC全域3倍积分！单个漏洞最高15w！送Apple全家桶！",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499234&idx=1&sn=302778f0d6709a3b6ba6e7002fe7ed2a": "EMQX后台插件命令执行"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499234&idx=1&sn=302778f0d6709a3b6ba6e7002fe7ed2a": "EMQX后台插件命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=1&sn=2b0d058ac337d26093a5ae849717e3dd": "【安全圈】微软OneDrive文件选择器漏洞曝光：网站可窃取用户全部云存储数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501121&idx=2&sn=50940420fb1e9fde2dce1f8f6a5226ae": "【漏洞通告】Google Chrome V8越界写入漏洞(CVE-2025-5280)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530275&idx=4&sn=8a7efa98d4a382f0144297742ff568e2": "入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247484579&idx=1&sn=d63ab9b5f7fbe189c2a020ffb04d6e7a": "代码审计Sign加密到前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f": "【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487427&idx=1&sn=4e665affb10589b165c61a022f5a37ea": "不同视角学习Java代码审计之文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514445&idx=1&sn=6f6043b769f9bed3eb4ff2904556f776": "美军工巨头押注AI赋能网络攻击，超21亿元收购漏洞利用厂商",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489351&idx=1&sn=62a05afe4fae8a7a497cdb2a52eb4047": "微软OneDrive严重安全漏洞：OAuth权限滥用，数据泄露风险高",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489911&idx=1&sn=e62b6002552b1ab6dba42242d593c2ed": "线上支付漏洞：开启 “ 0元购 ” ？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322005&idx=3&sn=d6c7633db1eb521d22d9cebac3887e7e": "留言赠书 | 《攻击网络协议：协议漏洞的发现+利用+保护》免费送",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490158&idx=1&sn=17f120cec84cc5ab344e5298683be964": "【高危漏洞预警】Apache Commons BeanUtils远程代码执行漏洞CVE-2025-48734",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137040&idx=2&sn=3409a0e99c9697da8ecb4c7742ca1399": "恶意软件藏身AI模型，专门针对阿里巴巴AI实验室用户；OneDrive文件选择器漏洞让应用获取用户云存储完整访问权限 | 牛览"
 }
