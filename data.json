@@ -14608,5 +14608,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485861&idx=1&sn=05f3030231f775fe4410e25733c538c0": "Panalog大数据日志审计系统sprog_upstatus.php存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUzNDMyNjI3Mg==&mid=2247487449&idx=1&sn=e45fed21e096e9ff0f6a128f16bf1ef9": "java代码执行(eval)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523149&idx=1&sn=0298267a08369cc3ea9bdbdec81eb788": "看我如何通过 OpenAI o3 挖到 Linux 内核远程 0day"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523149&idx=1&sn=0298267a08369cc3ea9bdbdec81eb788": "看我如何通过 OpenAI o3 挖到 Linux 内核远程 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247555294&idx=3&sn=09075eb75bc68c89437d35c5ddb10181": "利用验证框架 JAIST揭示开源自动驾驶系统的安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261237&idx=1&sn=5780326bb0e2c921f00c3199b93ec86e": "一处价值 $2500 的 DOM XSS 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491737&idx=1&sn=a4f727ba13cde3a317fdbf6711e10111": "Sirius 一款开源通用漏洞扫描器（Docker版）|漏洞探测"
 }
