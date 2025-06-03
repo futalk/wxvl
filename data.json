@@ -14692,5 +14692,14 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322307&idx=1&sn=4063f0cef12989b63bd8d0d3cd998454": "严重Linux漏洞致全球数百万系统密码哈希值泄露",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzY2MTcwMw==&mid=2247484883&idx=1&sn=5f24f041519c073a4a195cb4e17604d0": "AI 安全 近日大模型推理引擎 vLLM 暴出CVSS 9.8高危rce",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530392&idx=4&sn=f69b52a15a10f1ee3d9ee170ba468a0f": "Evertz SDVN 上的远程代码执行 (CVE-2025-4009)",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491791&idx=1&sn=ff5e4a045c8585d5b404ed420d49d4c0": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490549&idx=1&sn=41c95e54595d2a93aeead92a7d3ccfaf": "分享一款图形化的 .DS_Store文件泄露、.git目录泄露、.svn目录泄露漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=2&sn=7329951e75e17f34506c3e655c56ef47": "两大Linux漏洞曝光，可致敏感数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=1&sn=c1c4477aa71c8c5ec31746683788cc6b": "专家发布了关于思科IOS XE WLC漏洞CVE-2025-20188的详细分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494412&idx=1&sn=13bc8dcddd3dad02a2efc9e51490e172": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=3&sn=6b5f85b0b92b0523cc7326eeb3074253": "漏洞预警 | PrestaShop tshirtecommerce SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493973&idx=4&sn=83f48d8ebe0933c0775806b72338737c": "vBulletin论坛软件曝出两大漏洞正遭活跃攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493280&idx=2&sn=959893b377b1f9d3bb3d7df38ce51c70": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=2&sn=39e27fa254e9d75b09d7edf6a137246d": "Realtek蓝牙HCI适配器驱动程序0day漏洞披露，攻击者可删除Windows任意文件",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795303&idx=3&sn=c9459b810da15cd8177f4838c1d3e015": "高通警告黑客正在利用三个新修补的 Adreno GPU 漏洞"
 }
