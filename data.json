@@ -14748,5 +14748,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544": "杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485477&idx=1&sn=d14d0b13567a89ebdf0c7f7311643b87": "紧急预警：谷歌Chrome高危0Day漏洞（CVE-2025-5419）遭黑客大规模利用！",
     "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487580&idx=1&sn=c3d1340301f061e448a5c33fcf1e724e": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3": "【1day】某医药系统存在前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3": "【1day】某医药系统存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069983&idx=2&sn=aadb9b93aed958142a9ead6975be3334": "【安全圈】谷歌修复导致 AI 概览称“现在是 2024 年”的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e": "天擎终端安全管理系统getsimilarlist存在SQL注入漏洞"
 }
