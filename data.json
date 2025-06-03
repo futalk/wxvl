@@ -14742,5 +14742,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623594&idx=2&sn=120a04c661d02eabd3898c0da6d200f3": "CVSS10分！vBulletin远程代码执行漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490407&idx=1&sn=59e92744084604a545c4ba90ce5b5901": "【风险通告】Roundcube Webmail存在反序列化漏洞（CVE-2025-49113）",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900653&idx=1&sn=d8753f3adada1da31a48013b2410f1c3": "小心全屏“障眼法”！苹果浏览器曝BitM攻击漏洞，登录凭证面临失窃风险！",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=1&sn=41ef09229896e2bf881d8508d57c29fd": "高通：速修复这三个已遭利用的 Adreno GPU 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523167&idx=1&sn=41ef09229896e2bf881d8508d57c29fd": "高通：速修复这三个已遭利用的 Adreno GPU 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507104&idx=1&sn=48dabeea7a2f1ec51307204a97523111": "SRC凭什么要为“废物”白帽子的真实漏洞付费？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484586&idx=1&sn=61cc63ef6e7072a562ffca32d9e0498a": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544": "杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485477&idx=1&sn=d14d0b13567a89ebdf0c7f7311643b87": "紧急预警：谷歌Chrome高危0Day漏洞（CVE-2025-5419）遭黑客大规模利用！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487580&idx=1&sn=c3d1340301f061e448a5c33fcf1e724e": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3": "【1day】某医药系统存在前台SQL注入漏洞"
 }
