@@ -14750,5 +14750,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487580&idx=1&sn=c3d1340301f061e448a5c33fcf1e724e": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489807&idx=1&sn=ae168d989a5d57ebb2fc40ba71f045a3": "【1day】某医药系统存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069983&idx=2&sn=aadb9b93aed958142a9ead6975be3334": "【安全圈】谷歌修复导致 AI 概览称“现在是 2024 年”的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e": "天擎终端安全管理系统getsimilarlist存在SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e": "天擎终端安全管理系统getsimilarlist存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=3&sn=455aa6ff47c1f7ac85e74f8d8b1aba98": "漏洞预警 | 傲发办公通信专家系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491180&idx=1&sn=b210da06b518e42b574e7a6206c75449": "【src】SRC漏洞挖掘信息收集与挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=2&sn=f64ceabd513c7af560752897f9bc90f1": "漏洞预警 | JEEWMS SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493301&idx=1&sn=964eaacc145b0d78dc3d84aaac8d2df2": "漏洞预警 | PrestaShop tshirtecommerce目录遍历漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485584&idx=1&sn=6342934e6aa5ea24f539787d268c36ad": "硬件安全研究员震惊！STM32漏洞利用实现任意代码执行全过程曝光",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520871&idx=1&sn=0706c2bac7206e0f05fdfa4bca5677e4": "谷歌Chrome零日漏洞遭广泛利用，可执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795315&idx=2&sn=d0015fdb76b856cd4959e7046d09c8a9": "有 10 年历史的 Roundcube RCE 漏洞可让攻击者执行恶意代码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261263&idx=1&sn=509e830ca163d3c541c8824bea2e5592": "【$6,000】Firefox 高危漏洞披露",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512556&idx=1&sn=b112e0baa0b36ba161ef60910b3ae0ca": "xxl-job漏洞综合利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458860633&idx=1&sn=5b6cc0f21b97d658225bc4e366ee3398": "6年旧镜像翻车！手把手教你用Docker部署最新版企业级漏洞扫描工具OpenVAS",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480002&idx=2&sn=402cda184dbf54409e5116fdefa8c784": "牟林：没想到，就是漏洞——特洛伊木马对中国的启示",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491927&idx=1&sn=8ff43a267d390da09bb09964f1c7c522": "后渗透神器AdaptixC2红队渗测试多人协作框架（附带教程）|漏洞探测"
 }
