@@ -14771,5 +14771,18 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488038&idx=1&sn=2aef72e57e0086e4305d23d00c35d9a4": "潜伏十年！Roundcube Webmail高危漏洞让黑客随意操控你的邮箱",
     "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485369&idx=1&sn=ad3ebcd655dc05dcb2d59189a2c5c626": "源码泄露审计文件下载漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=1&sn=9ba0403347dc177e4caa30af389f631f": "谷歌修复了今年年初以来第二个被积极利用的Chrome零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490611&idx=1&sn=5696e7fcac9c7646ac8fd23c5c37b1ac": "简单好用的漏洞管理工具（附下载链接）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490611&idx=1&sn=5696e7fcac9c7646ac8fd23c5c37b1ac": "简单好用的漏洞管理工具（附下载链接）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494371&idx=1&sn=3b7b2922e7fdae49adea80a9e2acc5a7": "java审计之下载漏洞获取到的代码如何断点调试",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650610964&idx=3&sn=fca50e82f94f682a5a2e622dd3f26c96": "EMQX命令执行后渗透",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjUzNzg4Ng==&mid=2247484703&idx=1&sn=720816ecc0b5ad2912dd2a40ba854d57": "第125篇：蓝队溯源之burpsuite、zap、AWVS、xray扫描器反制方法与复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3MTgxOQ==&mid=2247499910&idx=1&sn=df1de2e9b4b1e20a50c035217bcd298d": "【漏洞预警】llama_index SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5OTMxNjkxMA==&mid=2247489052&idx=1&sn=9f2eac8420e7671934b2adb7b5fc7147": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676": "【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487354&idx=1&sn=44aee310cb9ef148d0a41a5da713e6c6": "CVE-2024-47575 漏洞分析及三种利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486536&idx=1&sn=9a6234de86003dce55ef80148b372a1f": "某园区0day代码审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493719&idx=1&sn=72763c3bcfa2e8e472e60e7dc715d642": "若依Vue漏洞检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524681&idx=1&sn=58d3241abc197e40dd2a48c4e3a4633d": "联发科芯片漏洞：攻击者无需用户交互即可提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485051&idx=1&sn=af7709c22592ba59aa6272659d0f4772": "CVE-2025-48827：vbulletin代码执行POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493984&idx=2&sn=81c758ea9cbb9fea538712b2b954e868": "高通修复了三个在有限针对性攻击中被利用的零日漏洞"
 }
