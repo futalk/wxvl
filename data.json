@@ -14802,5 +14802,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595168&idx=3&sn=1778f7b154f1be5f2139f7fdca6dc4be": "潜伏10年！Roundcube Webmail 重大安全漏洞曝光，CVSS 评分 9.9",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=2&sn=63481e238664f1bde33e4fa50f1ee971": "Splunk Universal Forwarder for Windows 漏洞授予非管理员用户完全内容访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491726&idx=1&sn=a620064d4be426858ff4515ad6baa67d": "CVE-2020-11800 Zabbix 命令注入漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=1&sn=8796151f4fa121bbb37bd0cbfe9f8b11": "【AI高危漏洞预警】llama_index DuckDBVectorStore SQL注入漏洞CVE-2025-1750",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484462&idx=1&sn=7a2f920a5bd2ec339a782f88f68fa3ed": "llama_Index SQL注入漏洞（CVE-2025-1750）POC及本地复现部署环境",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c": "【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492623&idx=1&sn=850372f429fe2877e3bc96d0d6f52967": "警惕！境外间谍借系统漏洞，直击党政科研要害！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491941&idx=1&sn=180a7a72b014cd3156a1f44dee242368": "最新xxl-job综合漏洞检测利用工具|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485894&idx=1&sn=c532159a5a85d9939354104532ecd411": "唯德科创 IPEasy 知易通 DownloadFile 任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491693&idx=1&sn=4f6b2b1ccf9491a261ce9ce50a700534": "M7s UI download 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284": "CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723": "新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码"
 }
