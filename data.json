@@ -14844,5 +14844,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247494864&idx=1&sn=f82c751d60028bc253ecff7eb70a40f2": "百万奖金池！ByteSRC全域3倍积分！单个漏洞赏金15万！",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488974&idx=1&sn=5b2444dbfe6ced072d11a897895e3fee": "超骚逻辑漏洞-滥用自动邮件回复程序访问内部工作场所",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524699&idx=1&sn=aa6aabfcb1a711cabae2aa5b84c2e4af": "谷歌披露威胁组织攻击方式：伪造Salesforce数据加载器实施钓鱼攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523184&idx=1&sn=f205e1639e39bac5e3d3496845db4087": "思科提醒注意严重的 ISE 和 CCP 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523184&idx=1&sn=f205e1639e39bac5e3d3496845db4087": "思科提醒注意严重的 ISE 和 CCP 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484313&idx=1&sn=9b71c3e6bcb666505807374ab5dcb14a": "渗透测试与漏洞扫描：有什么区别？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037742&idx=1&sn=e38b2e41abe4ef5de9291947fe02ec0b": "消息中间件RocketMQ命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485899&idx=1&sn=376aea6abca97546fc3a44c807047baa": "唯德科创 IPEasy 知易通 WSFM 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=2&sn=943465d2d861698941b2f73fc679ea7f": "Smartded Meteobridg的template.cgi接口存在任意命令注入CVE-2025-4008 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070016&idx=3&sn=2f8103c74269e54bf6753a609066de26": "【安全圈】在VMWare NSX中发现多个存储的XSS漏洞-立即修补",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490196&idx=1&sn=445a97e63142e9216294ebc4e1bea7ad": "【高危漏洞预警】Dataease JWT认证绕过&H2数据库远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519440&idx=1&sn=2c02d7338cb44ac37b0fdcb7466ad272": "突破常规！文件上传漏洞的6大隐蔽攻击面（多个高危场景剖析）|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486694&idx=1&sn=c0b1408fba02412f21d2e7d5c3078bed": "【漏洞预警】DataEase 远程代码执行漏洞(CVE-2025-49002)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488552&idx=1&sn=778857248586131ae73927608b847830": "Liferay icon.jsp接口存在跨站漏洞CVE-2025-4388 附POC"
 }
