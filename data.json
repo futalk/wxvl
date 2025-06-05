@@ -14816,5 +14816,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=3&sn=181705888a549777ca5ddc60469799af": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493312&idx=2&sn=34a6edf72fcd14c1c0603c5e647f1f18": "漏洞预警 | 傲发办公通信专家系统SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116177&idx=1&sn=b61a279f71e939047cb92a3467d505fe": "维多利亚的秘密由于安全漏洞推迟发布收益报告",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3": "HVV护网行动 | 分享最近攻防演练HVV漏洞复盘"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546428&idx=2&sn=6f40163d3d690076a95f75e1becb1dd3": "HVV护网行动 | 分享最近攻防演练HVV漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261267&idx=1&sn=9438b6a7fe72e186a534faca70834b0b": "赚取50000美元的5个顶级 XSS PoC",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODMzOTA2NA==&mid=2247494382&idx=1&sn=330fbe9f024f01ab79c0d9b1adb073fb": "0Day漏洞曝光！多媒体综合业务显示系统面临严峻挑战",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281545&idx=1&sn=c51dacb03c32e53c22ea3c7ee12da50e": "如何快速挖掘高质量安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247769&idx=1&sn=776c3d134659ab6f035cf673173655f8": "Windows RAR∕ZIP解压缩泄露NTLM哈希漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463107&idx=1&sn=a2351a664e2c00776ed72bcaf1b17d5f": "信息安全漏洞周报（2025年第22期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491203&idx=1&sn=fc7e23abd6f5825773985e6accd83d0d": "spring内存马-Interceptor构造",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497569&idx=2&sn=28e157ca89556fd156ed0c012068882e": "你的服务器在裸奔吗？高危漏洞、端口和弱口令，哪个才是压死骆驼的最后一根稻草？",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512335&idx=1&sn=f2441cd275388321ab2e598a075770f8": "Windows RAR∕ZIP解压缩泄露NTLM哈希漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a": "【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499813&idx=1&sn=6bae33061f883e54798c04b274e0622e": "WebShell 再进化：无需 cmd.exe 实现任意命令执行"
 }
