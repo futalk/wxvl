@@ -14826,5 +14826,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497569&idx=2&sn=28e157ca89556fd156ed0c012068882e": "你的服务器在裸奔吗？高危漏洞、端口和弱口令，哪个才是压死骆驼的最后一根稻草？",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512335&idx=1&sn=f2441cd275388321ab2e598a075770f8": "Windows RAR∕ZIP解压缩泄露NTLM哈希漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490183&idx=2&sn=26d52c8caaf272e72f132b255994b95a": "【高危漏洞预警】Roundcube Webmail upload.php _from反序列化代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499813&idx=1&sn=6bae33061f883e54798c04b274e0622e": "WebShell 再进化：无需 cmd.exe 实现任意命令执行"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499813&idx=1&sn=6bae33061f883e54798c04b274e0622e": "WebShell 再进化：无需 cmd.exe 实现任意命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530437&idx=1&sn=267b5a0dabb08b7c42c092b55b72eaf0": "Roundcube ≤ 1.6.10 通过 PHP 对象反序列化进行身份验证后 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485866&idx=1&sn=f22b47fb7cbbdb28ea72a878b6f9d8fa": "Jenkins未授权访问-命令执行漏洞复现及修复方案",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616341&idx=1&sn=f64a0740ed2b0d209cefae4d1633c3ee": "CVE-2025–4123 | Grafana SSRF和账户接管漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491229&idx=1&sn=a9c298d3409c3f84537a599c5c171c00": "创宇安全智脑 | Cisco IOS XE 任意文件上传（CVE-2025-20188）等81个漏洞可检测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507774&idx=1&sn=d12eb0b53d048871be85e2a2f8db6bf4": "微步情报局发现DataEase存在多个高危漏洞，可实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491703&idx=1&sn=6775431a3523ce79579c880215420a9f": "世邦通信SPON-IP网络对讲广播系统 videobacktrackpush.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503451&idx=1&sn=838415cece549ae052cced3f736997b1": "【已复现】DataEase 远程代码执行漏洞(CVE-2025-49001、CVE-2025-49002)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492805&idx=1&sn=30e47869ddf47a6cb5a92b70c81c266e": "【已复现】DataEase 远程代码执行漏洞（CVE-2025-49002、CVE-2025-49001）"
 }
