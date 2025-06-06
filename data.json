@@ -14891,5 +14891,10 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322591&idx=1&sn=fa84e28c57c290ad80544c3a63efd1d9": "Wireshark漏洞可通过恶意数据包注入引发拒绝服务攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096316&idx=2&sn=946a6059e69d462480bd4449cf5bc7d3": "Apple 的 iOS 激活允许注入未经身份验证的 XML 负载漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595409&idx=1&sn=df257ccaa9f3bcd7348174e00218bd92": "Redis漏洞分析，ACL篇",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528265&idx=1&sn=1a27220513edf970c954fd0ed275e10b": "用 IRify 深入探索 WebShell 中的 Source∕Sink 挖掘"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528265&idx=1&sn=1a27220513edf970c954fd0ed275e10b": "用 IRify 深入探索 WebShell 中的 Source∕Sink 挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486231&idx=1&sn=e78d0606c0186e03e3dc32258335b8db": "vBulletin replaceAdTemplate 远程代码执行漏洞（CVE-2025-48827）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=1&sn=5a269eb8ff8e659faabedaa0aa8a4688": "【高危漏洞预警】PHPGurukul Management System代码执行漏洞(CVE-2025-5560)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516756&idx=1&sn=f1267aac6ba91fac591b1b3eb4624126": "xxl-job漏洞综合利用工具 -- xxl-job-attack（6月3日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796528&idx=1&sn=c28536a9bfd233fe849fe92949b8dd1b": "SBOM风险预警 | pino系列投毒包开展敏感数据窃取及远程代码执行攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=2&sn=dae3b0028a99377b65374576fd62ad24": "【高危漏洞预警】FreeFloat FTP服务器缓冲区溢出漏洞CVE-2025-5596"
 }
