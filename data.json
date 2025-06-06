@@ -14875,5 +14875,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261279&idx=2&sn=34a64379d3eb92a135403a71c42b4635": "CVE-2025-30397 PoC",
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489196&idx=2&sn=c6590cb7a9b28def433bd6e8ff26eeb5": "谷歌称黑客利用修改版Salesforce应用窃取数据并勒索公司",
     "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488361&idx=1&sn=c11476376033a528ae2ce25bf94c52eb": "2025年离大谱的CVE-2011-10007",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491712&idx=1&sn=fcd7654701a537eecd4c655d43ada5cf": "PaloAlto-Expedition OS命令注入漏洞 (CVE-2025-0107)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491712&idx=1&sn=fcd7654701a537eecd4c655d43ada5cf": "PaloAlto-Expedition OS命令注入漏洞 (CVE-2025-0107)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485931&idx=1&sn=7fee859148e33e1eaf8fc15cbb996402": "企业内部安全漏洞修复流程的建立与思考（其三）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247624932&idx=1&sn=6f75bcca06219e491efdcf1420264980": "小米：车联网安全漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515360&idx=1&sn=531525683c50094e1ba7694d49afc477": "警惕！你的 API 正在 \"裸奔\"？Swagger 安全漏洞攻防实战全解析！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMjcyNzA5Mw==&mid=2247495075&idx=1&sn=e10bf05cdb15287868abb611f48db330": "2025攻防演练必修高危漏洞集合（3.0版）",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524715&idx=4&sn=579700137876da6310dde825aee73f7a": "思科ISE关键漏洞影响AWS、微软Azure及Oracle云基础设施部署",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064199&idx=1&sn=04dbe27016e7d349cff47e6921eb1997": "信息安全漏洞周报【第025期】",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503459&idx=1&sn=087027a577be1dc41e697c2c19c5b6d6": "【已复现】Roundcube Webmail 后台代码执行漏洞(CVE-2025-49113)安全风险通告"
 }
