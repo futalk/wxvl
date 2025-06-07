@@ -14910,5 +14910,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655281741&idx=1&sn=2975bc75e4e224aca1c0bfccb16aaa4e": "2025 HVV必修高危漏洞集合3",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=2&sn=dbe57e94f20bc9b3f98b334b6267cffc": "CVE-2025-48827｜vBulletin远程代码执行漏洞（POC）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484110&idx=1&sn=e7c3b3595ccf8ca433e1a2e4c2b81c46": "【已复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502951&idx=1&sn=fae4b38afc3c1eb2bfbc0e6f0c4db3d2": "【攻防实战】phpmyadmin-RCE集锦"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247502951&idx=1&sn=fae4b38afc3c1eb2bfbc0e6f0c4db3d2": "【攻防实战】phpmyadmin-RCE集锦",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492226&idx=1&sn=a5a57ba3077ab1eb8f5e4725a95a05fe": "从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492804&idx=1&sn=5258769e3eb478e47f0d9cb91d055b0a": "【JAVA代审】从0到实战：超全Java SQL注入漏洞全解析与防御指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519442&idx=1&sn=c589daacc1be8e90294d6c18e509d2fb": "赚取50000美元的5个顶级 XSS PoC"
 }
