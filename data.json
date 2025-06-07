@@ -14898,5 +14898,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647796528&idx=1&sn=c28536a9bfd233fe849fe92949b8dd1b": "SBOM风险预警 | pino系列投毒包开展敏感数据窃取及远程代码执行攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490206&idx=2&sn=dae3b0028a99377b65374576fd62ad24": "【高危漏洞预警】FreeFloat FTP服务器缓冲区溢出漏洞CVE-2025-5596",
     "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133301&idx=1&sn=448c861d50bcae8305539a7cbca30314": "高通GPU漏洞威胁安卓生态，撞库攻击致北面资料外泄|一周特辑",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4": "JS中的漏洞信息"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488934&idx=1&sn=0fa423fe5ba9e56f7d1ebc70b5d65fd4": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485643&idx=1&sn=ec74894c3ce42e4b21fd19a407c54c24": "某景人事管理系统漏洞挖掘与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488976&idx=1&sn=823dff2e68ba60b26f2a7c07d1c136f0": "电商网站 SSTI 漏洞利用：专业攻略",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486697&idx=1&sn=8286bc3f6b40a00154d5b7cd13c4dd8a": "【已复现】Roundcube Webmail 代码执行漏洞(CVE-2025-49113)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530523&idx=1&sn=eae1159f200e68098297acb465d5d4c8": "Anthropic MCP 中的漏洞：全模式中毒 + 机密泄露工具攻击（内含 PoC）"
 }
