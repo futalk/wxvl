@@ -14915,5 +14915,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492804&idx=1&sn=5258769e3eb478e47f0d9cb91d055b0a": "【JAVA代审】从0到实战：超全Java SQL注入漏洞全解析与防御指南",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519442&idx=1&sn=c589daacc1be8e90294d6c18e509d2fb": "赚取50000美元的5个顶级 XSS PoC",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485904&idx=1&sn=88ebe7b12908357268cf7bf6ff26daed": "智联云采 SRM2.0系统接口 autologin 身份认证绕过漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48": "CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247485975&idx=1&sn=a3a96fcfeca034089636e9a89ae83d48": "CVE-2025-49113｜Roundcube Webmail反序列化漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503392&idx=1&sn=5292f042bdea8bb3d2fd6e87cb7a2ca2": "【成功复现】vBulletin远程代码执行漏洞(CVE-2025-48827&CVE-2025-48828)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491495&idx=1&sn=28a749aa101664e76dd905dfc0081fe3": "网络安全人士必知的 AWVS 漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490554&idx=1&sn=a617e5cf9c985ea332307e9cbb40a955": "LazyHunter：自动漏洞扫描的工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491410&idx=1&sn=e4ef9713ca498412d72fd9536077c06b": "【漏洞】PHP代码审计篇 - 信呼OA 前台分析SQL注入",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488992&idx=3&sn=240dba489c13a8cf1abd16a7f09aa981": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492152&idx=1&sn=9880c257352e81a69012ac2327d46c1b": "潜伏十年的严重漏洞：CVE-2025-49113 Roundcube 反序列化漏洞原理与 gadget 构造深度分析"
 }
