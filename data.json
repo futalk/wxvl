@@ -15011,5 +15011,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490219&idx=2&sn=0501ee9f75de1f6f609c9c7c75b2d66e": "【高危漏洞预警】Apache Kafka Client配置造成远程代码执行漏洞CVE-2025-27818",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487457&idx=1&sn=a167e6d3edc69691a44053b8b3e7a302": "实战讲解 Java代码审计之 FreeMarker模版注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555093&idx=1&sn=fd9d6588ba43744ec9add8e7e6f99d9f": "玩转网络漏洞挖掘，实战能力弯道超车",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487384&idx=1&sn=5ffca9c9cb920ef8ad92e9b37a2cb559": "CVE-2025-49113 漏洞分析与利用方式"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487384&idx=1&sn=5ffca9c9cb920ef8ad92e9b37a2cb559": "CVE-2025-49113 漏洞分析与利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595541&idx=1&sn=ca1223787e388345e955ac4b09a7ffad": "Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路"
 }
