@@ -15022,5 +15022,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=2&sn=2e039d2ebc04cf71f327eb71ea092dba": "CVE 2024-43570 和 CVE-2024-43535 的报告和 POC",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2": "信息安全漏洞周报（2025年第23期）",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282214&idx=1&sn=0625914fed042db42421a0970a5166c9": "2024年度全球软件漏洞与威胁情报报告",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=2&sn=ea145b27a636bc95e9cf0045e0f89d03": "Ivanti Workspace Control硬编码密钥漏洞暴露 SQL 凭据",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247494858&idx=1&sn=d1f7cfb96d00c4d43fe42465bd71409f": "工具推荐 | 高效便捷的图形化Nuclei GUI POC管理工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248079&idx=1&sn=90e56a859ad29dc05f0cc997ae73bcb6": "建行分行因存在多项网络安全问题被罚 | “取个快递”损失数十万 | 黑客利用iMessage零点击漏洞攻击iPhone用户",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623694&idx=2&sn=e663f63c20fc80cba9fad9941e6903f5": "涉及66个重要漏洞！微软发布2025年6月补丁日安全通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322893&idx=3&sn=acca4bafe06c06c3a0e8756199e46a51": "Windows WebDAV 零日远程代码执行漏洞遭野外利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4": "渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限"
 }
