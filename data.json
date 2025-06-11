@@ -15012,5 +15012,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487457&idx=1&sn=a167e6d3edc69691a44053b8b3e7a302": "实战讲解 Java代码审计之 FreeMarker模版注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555093&idx=1&sn=fd9d6588ba43744ec9add8e7e6f99d9f": "玩转网络漏洞挖掘，实战能力弯道超车",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487384&idx=1&sn=5ffca9c9cb920ef8ad92e9b37a2cb559": "CVE-2025-49113 漏洞分析与利用方式",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595541&idx=1&sn=ca1223787e388345e955ac4b09a7ffad": "Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595541&idx=1&sn=ca1223787e388345e955ac4b09a7ffad": "Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485082&idx=1&sn=d864aa242dace84f433eb2fae22e0c69": "2025年5月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499968&idx=1&sn=c0a4acf073d44a93066277415a1b8beb": "CNVD漏洞周报2025年第21期",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492814&idx=1&sn=7fbcb92f5cf2e09c7b66163bf13863c7": "【已复现】Kafka Connect 任意文件读取漏洞（CVE-2025-27817）"
 }
