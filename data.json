@@ -15097,5 +15097,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486106&idx=1&sn=1bea9729146539683a59af9a3d9470e8": "EchoLeak-首个导致 M365 Copilot 数据泄露的零点击 AI 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322946&idx=3&sn=289b6e0241356a1bdbb26f4d679825ac": "微软Outlook路径遍历漏洞允许攻击者远程执行任意代码",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463175&idx=1&sn=e76aec19728e7bf74ec7c039ed40a84b": "CNNVD关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496635&idx=1&sn=7389470e1ca637f9aa26ebaabe362b5e": "漏洞管理玩法已变，四大常见错误亟待摒弃"
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496635&idx=1&sn=7389470e1ca637f9aa26ebaabe362b5e": "漏洞管理玩法已变，四大常见错误亟待摒弃",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487122&idx=1&sn=bd894c86e93f53e3fde36b3016e22e07": "重生之网安小FW，某教务一体化系统任意文件写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137167&idx=2&sn=90da648f75c3d6d696f4946823f2f495": "突发！奔驰车载系统大面积崩溃；首个已知AI零点击漏洞细节曝光 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500": "揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测"
 }
