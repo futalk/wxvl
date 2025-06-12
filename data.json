@@ -15104,5 +15104,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500": "揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具）",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权"
 }
