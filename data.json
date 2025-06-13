@@ -15153,5 +15153,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664244112&idx=2&sn=9428653919db114469090e0ec242111f": "CNNVD | 关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=4&sn=77515d1b0ea03422f212c22ce648451c": "中科GPS设备漏洞曝光，可导致车辆被控制和位置追踪",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTEzMTA0Mw==&mid=2247496726&idx=1&sn=cb4a63b4ce5095d221332254bd5bbc8e": "CVE-2025-33073 漏洞：NTLM 反射攻击的绕过方法及影响",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75": "苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=2&sn=8c997ac7387fc908b287a6d0d561fe75": "苹果iOS现零点击漏洞，记者遭Graphite间谍软件入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7": "同享人力管理管理平台 UploadHandler 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486410&idx=1&sn=292331c03afb3bcfa68cd2cdd35c0eb7": "漏洞管理工具 - miscan",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491228&idx=1&sn=052a45b2108d847c0ec904a1c3075ce6": "两载光阴，我与0day的两次匿名邂逅",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448689041&idx=2&sn=726c15b4a0668113a70c2f888efe629b": "CNNVD关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488591&idx=1&sn=c235ea6352df7f47f2fc2bd6408c05c1": "Grafan存在url重定向&服务端请求伪造漏洞CVE-2025-4123 附POC"
 }
