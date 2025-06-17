@@ -15262,5 +15262,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492664&idx=1&sn=34327021796479c56b9f78e1d53f26e3": "Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=1&sn=0283b5ba91d5d3a06e6aae4bc462be4c": "【已复现】Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488117&idx=1&sn=3b34f82ff0a524550f1a692cb328f9bc": "高危预警！Windows曝“反射型Kerberos中继攻击”漏洞，攻击者可直取SYSTEM权限(含POC链接)",
-    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具"
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247520768&idx=1&sn=5d38e98a33103bbc9c386a357f878f50": "《2025年攻防演练必修高危漏洞合集》",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247499990&idx=1&sn=c8685b8d4471bb413b477e5f76d70b3b": "CNVD漏洞周报2025年第22期",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652997858&idx=1&sn=b65195c1a46ab8fa149ea19f95295098": "先知通用软件漏洞收集及奖励计划第八期 正式开始！",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519126&idx=1&sn=3eecd2bbc44b7080865122adb5f9b382": "实战攻防之Nacos漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247510724&idx=1&sn=204a1e34d1a77f2c86c9ff3879627d96": "域内大杀器 CVE-2025-33073 漏洞分析"
 }
