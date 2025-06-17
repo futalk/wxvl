@@ -15287,5 +15287,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485905&idx=1&sn=bde9c0b7742a30ff31614872d63a3cbd": "【漏洞复现】契约锁远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070217&idx=3&sn=95c2556df13add7b94e2b92ec3ea503d": "【安全圈】“微软修复 Windows Hello 欺骗漏洞：黑暗中人脸识别功能被禁用”",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490251&idx=1&sn=a80edb0d0a63cff61c6d32b4c7952a9e": "【高危漏洞预警】Apache Tomcat认证绕过漏洞(CVE-2025-49125)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490251&idx=1&sn=a80edb0d0a63cff61c6d32b4c7952a9e": "【高危漏洞预警】Apache Tomcat认证绕过漏洞(CVE-2025-49125)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096336&idx=2&sn=c3e591e98ec6f4b4800be540858e1ccc": "针对 Windows 磁盘清理提升漏洞的 PoC 漏洞揭晓",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全"
 }
