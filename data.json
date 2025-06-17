@@ -15260,5 +15260,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488619&idx=1&sn=b4140b435210a6e9a18601d49439fcb4": "Apache Kafka Connect接口存在任意文件读取漏洞与SSRF漏洞CVE-2025-27817 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=1&sn=b8357c865b44476bbafa52f344dc85f5": "【漏洞预警】Grafana访问控制不当漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492664&idx=1&sn=34327021796479c56b9f78e1d53f26e3": "Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=1&sn=0283b5ba91d5d3a06e6aae4bc462be4c": "【已复现】Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=1&sn=0283b5ba91d5d3a06e6aae4bc462be4c": "【已复现】Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488117&idx=1&sn=3b34f82ff0a524550f1a692cb328f9bc": "高危预警！Windows曝“反射型Kerberos中继攻击”漏洞，攻击者可直取SYSTEM权限(含POC链接)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具"
 }
