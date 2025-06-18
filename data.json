@@ -15290,5 +15290,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490251&idx=1&sn=a80edb0d0a63cff61c6d32b4c7952a9e": "【高危漏洞预警】Apache Tomcat认证绕过漏洞(CVE-2025-49125)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096336&idx=2&sn=c3e591e98ec6f4b4800be540858e1ccc": "针对 Windows 磁盘清理提升漏洞的 PoC 漏洞揭晓",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323227&idx=3&sn=8d510d5113b805e0f18388a6539e982a": "MCP Inspector严重远程代码执行漏洞威胁AI开发环境安全",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795462&idx=2&sn=f95519494af0be8a5c1008929290892b": "Team46 APT组织积极利用 Chrome 0day漏洞（CVE-2025-2783）针对俄罗斯目标",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512840&idx=1&sn=25320ff14a997f0602c48762a5463d3b": "外网打点、专项漏洞、云上攻防、内网横向",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=1&sn=cc65bcd8f82f0fd1b46fd746ecbba41e": "漏洞预警 | Windows SMB权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491590&idx=1&sn=6bfe24a76d37d4ec6e48d96ef743b047": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月17日",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283404&idx=1&sn=187c7df781065431e5dee9a956eb72ae": "2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=1&sn=50e822ff30e5cc7f931139cb1a288b2c": "华硕 Armoury Crate漏洞可导致攻击者获取Windows 管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=3&sn=08058cf5a01e256b72d5aef1908c5172": "漏洞预警 | 四信通信科技有限公司设备管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519127&idx=1&sn=ecea8dcd3f921a456ccbddba527c8ba0": "记某众测Fastjson<=1.2.68反序列化RCE过程",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491094&idx=1&sn=a014710ea7216eacadbc94c61f81151b": "漏洞管理玩法已变"
 }
