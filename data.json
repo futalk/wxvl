@@ -15337,5 +15337,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=1&sn=432dd1cb6769a98e401d684226627eb1": "【高危漏洞预警】泛微E-cology9 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483900&idx=1&sn=be8d8fa3454a2c1ca471da2c0492a994": "URL跳转漏洞-原理到实战",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488450&idx=1&sn=34b5434a55a02c05bb35ebef8f08aa3c": "CVE-2025-33073！Microsoft SMB 客户端特权提升漏洞 漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499843&idx=1&sn=4586afaa6722de8983da0a1c104db042": "Chrome 漏洞让攻击者执行任意代码 - 立即更新！"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499843&idx=1&sn=4586afaa6722de8983da0a1c104db042": "Chrome 漏洞让攻击者执行任意代码 - 立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=2&sn=434cc36cf0d74dc86fc89af3d189743f": "【已复现】Windows SMB 权限提升漏洞（CVE-2025-33073）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=1&sn=9761f150a71b2c5fb70b38b9a089006c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492488&idx=1&sn=7c1e6f59ac98e6a9ef8a0a714166ab45": "渗透必备工具箱V9(更新) 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=2&sn=347204929358f8a4c82b2634e62774cd": "Veeam RCE漏洞导致域用户入侵备份服务器",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247486121&idx=1&sn=0fd01996425ee4db46ec9a675851b9c7": "一次CNVD漏洞挖掘过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "红队终极指南：“A-poc∕RedTeam-Tools”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483905&idx=1&sn=f5ceef3c62817cf807d41a9890fbaf34": "第六章URL跳转漏洞-原理到实战"
 }
