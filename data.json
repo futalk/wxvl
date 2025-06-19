@@ -15357,5 +15357,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488643&idx=1&sn=b27e3aba1632dd12bad93e6c83fe107a": "契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546559&idx=2&sn=3e604094846f6639de3d590ec3e75b45": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546559&idx=2&sn=3e604094846f6639de3d590ec3e75b45": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488131&idx=1&sn=47a1bd3f6af2b827fd64537d32891151": "Linux核心转存漏洞：CVE-2025-5054（POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=1&sn=824b2b262ccd14013ff47b1150ee5f2e": "Veeam修复了Backup & Replication产品中的一个新关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484633&idx=1&sn=991d4d622e93851617f7e085b3c8e2b8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499903&idx=1&sn=bd4cd23c26aac01c8dcc6ce1bab5ba63": "双漏洞链一击拿下 Root：CVE-2025-6018∕CVE-2025-6019 横扫主流 Linux",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486229&idx=1&sn=3a1d73583e193008a7a7c66f522d0567": "工具集：Wavely V3.0【Nuclei POC 漏洞验证可视化工具】--6.19更新",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491859&idx=1&sn=8d77eaf8aac84238abc49fe49e499497": "三汇 SMG网关管理软件 9-2radius.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492350&idx=1&sn=5586252e5859dfb692618f047c00faa2": "攻防下帮助学员快速审计NET前台rce漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488127&idx=1&sn=af0c6e44a295d4d99022dd201048fc66": "紧急！泛微E-cology9高危漏洞来袭，数据库大门洞开！(QVD-2025-23834)"
 }
