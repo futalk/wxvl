@@ -15347,5 +15347,15 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483905&idx=1&sn=f5ceef3c62817cf807d41a9890fbaf34": "第六章URL跳转漏洞-原理到实战",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484906&idx=2&sn=97b955ee68e3ad6b31a6b5ecc0278dcd": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第四十期",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493007&idx=1&sn=b20a374d3ca3b7006b0efb5ae5029fd5": "英特尔 CPU 新漏洞导致特权内存中的敏感数据泄露",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491912&idx=1&sn=74dd7b8a525955965457628ed711e635": "浅谈常见EDU漏洞，逻辑漏洞、越权、接管、getshell，小白如何快速找准漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546563&idx=2&sn=e3b299fc15a136e45ca0efdd0cbaf3b9": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=2&sn=1cc5b2e1e376e2d93d5bd3bd41d1c1b0": "漏洞预警 | 信呼OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494556&idx=1&sn=c79aa1a66057f879b6885cd60d3cbd62": "Nuclei POC 漏洞验证可视化工具 | 更新V3.0.0",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=3&sn=36633d2511379f57d133547778a390f8": "漏洞预警 | 月子会所ERP管理云平台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283656&idx=3&sn=641843bbd3df3792d39ce6ef902c63a7": "HVV（红队蓝队资料、威胁情报、技战法）、渗透测试、漏洞、代码审计、APT、DDOS、勒索病毒、CTF、逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488643&idx=1&sn=b27e3aba1632dd12bad93e6c83fe107a": "契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546559&idx=2&sn=3e604094846f6639de3d590ec3e75b45": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理"
 }
