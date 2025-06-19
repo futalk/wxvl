@@ -1,7 +1,7 @@
 #  关于漏洞“宝塔Linux面板存在任意命令执行”的说明  
- 隼目安全   2025-06-19 16:03  
+原创 用砖头敲代码  表哥带我   2025-06-19 16:00  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/9HKdHo8BvC0cjyXqt6FBhRju22CxQc1DrESSDqJMpSU4gtk1c55aiaic1FYJZJXwlibiac1Rdr20NK6GUcPIstv2xA/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/pxKqYxJWy7MHqrAcwIGH5K7UvO9SFI4EkaH4ooCVsu7cll9674CjgclKxGIKcM5MNF5s7vnK2NjZ6tliaQ0FWNg/640?wx_fmt=gif&from=appmsg "")  
   
 关于最近特别火的漏洞“宝塔Linux面板存在任意命令执行漏洞”，“表哥带我”及“隼目安全”公众号已联系到该”漏洞”的发现者，并与该”漏洞”的发现者展开一些对漏洞定义有关的对峙，经过了解发现该”漏洞”在一定层面上确为漏洞（定义），  
 CNVD 审核时间线  
@@ -121,11 +121,6 @@ import hashlibimport jsonimport timeimport requestsclass bt_panel:    def __in
 外部恶意场景下的非预期利用”呢。  
   
 讲到这里，感觉篇幅也差不多了。不过多占用师傅的休息/摸鱼时间了，既然宝塔发公告说这个不算漏洞，那么各位师傅们，就将这个小BUG作为宝塔的彩蛋来看吧，看看这种小概率事件会不会被师傅们碰到，万一真的用计划任务给宝塔提权了，那乐子就大了。  
-  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/9HKdHo8BvC0cjyXqt6FBhRju22CxQc1D9lHgx3vVZWy6EzHgvYVS81RMGibUlibfN0VUtcoj6L2sr7qyWdm1LicTg/640?wx_fmt=png "")  
-  
   
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/pxKqYxJWy7PZVHNNkiaicj7KnaO5w6yqAgaVS7Lgazd0ibPwgVokDg2bIj84GhvseoJxUHCST545icjxMTEGAmmskg/640?wx_fmt=jpeg&from=appmsg "")  
   

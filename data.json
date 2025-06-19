@@ -15401,5 +15401,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492539&idx=1&sn=250730046fc1116e0a28c8ea9e77bbb5": "Burp新利器解决请求包加密问题 CloudX自动化解密AES、SM4、DES等加密方式的接口|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=1&sn=391abd98577d6ef93a97caf66c01a1b9": "开源项目中的GitHub Actions安全隐患：MITRE与Splunk揭露关键漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=1&sn=391abd98577d6ef93a97caf66c01a1b9": "开源项目中的GitHub Actions安全隐患：MITRE与Splunk揭露关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484912&idx=1&sn=231332522ccc8edc4d7cd46df1c75b8c": "初识安全漏洞防治SOP",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明"
 }
