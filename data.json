@@ -15438,5 +15438,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487488&idx=1&sn=a07090fe47afa7fa1c9bb2f968aadd2a": "CVE-2024-55591 Fortinet FortiOS 身份验证绕过",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523347&idx=2&sn=b6f02b127ba49b7fa05eec183cb4108a": "Sitcore XP中的硬编码密码 “b” 导致企业系统易受RCE攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484461&idx=1&sn=d12f4d1f914768b6f6aeb695eca84490": "小团队漏洞管理平台",
-    "https://mp.weixin.qq.com/s?__biz=MzAxNDkzNjQ0Mw==&mid=2247483963&idx=1&sn=d4147631169c4f3f4d59a9a061d95188": "SVG 嵌套钓鱼溯源分析：基于可信域名 XSS 漏洞的黑产分发链追踪"
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDkzNjQ0Mw==&mid=2247483963&idx=1&sn=d4147631169c4f3f4d59a9a061d95188": "SVG 嵌套钓鱼溯源分析：基于可信域名 XSS 漏洞的黑产分发链追踪",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485966&idx=1&sn=502623af4e680d22ab43973a413eee69": "【漏洞复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490279&idx=1&sn=444e48ca2685746c17e8e59f2255a436": "【漏洞预警】DedeCMS命令执行漏洞(CVE-2025-6335)",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485927&idx=1&sn=aaae73d34c7eb96d1440870b21c03105": "工具分享 | 一款高价值漏洞情报爬取工具",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=3&sn=24cefa58e29f9132413362fcfc5c2177": "IBM QRadar SIEM 漏洞允许攻击者执行任意命令"
 }
