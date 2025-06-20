@@ -15403,5 +15403,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=1&sn=391abd98577d6ef93a97caf66c01a1b9": "开源项目中的GitHub Actions安全隐患：MITRE与Splunk揭露关键漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484912&idx=1&sn=231332522ccc8edc4d7cd46df1c75b8c": "初识安全漏洞防治SOP",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=3&sn=2cdc99e9e47e8c90eb4982049120fb5b": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=1&sn=c23bc486899927649e2245662abfb383": "漏洞预警 | 宏景eHR SQL注入和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247491984&idx=1&sn=754ef28c3e4c30173207a484f66ddf13": "【众测】分享某SRC众测高危逻辑漏洞一枚",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486886&idx=1&sn=be075071b89d614263149e7ac7ab9ecb": "从SOAP到Shell：利用SOAP服务实现完全管理员账户接管（近乎RCE的漏洞）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484866&idx=1&sn=65eb8293ccb79f02d72c47f620a51d97": "【攻防利器】Tomcat漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493458&idx=2&sn=a9ce4a72601e6e8f80da0bd87561e974": "漏洞预警 | 用友NC SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908325&idx=2&sn=06326aff0db92eb3b0cf94102cdbec84": "Chrome N-Day漏洞利用工程指南",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488137&idx=1&sn=e07f4a50cf1f03d17bac8b2800bd37b4": "Windows惊现致命权限漏洞！普通员工1分钟变管理员，数亿设备暴露风险(CVE-2025-24286)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900786&idx=1&sn=069433e028f0bbb9d5457c0d6caab415": "Linux内核提权漏洞(CVE-2023-0386)在野利用：从技术原理到业务风险与防御策略",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=1&sn=d48bf4bef564819f0e7b48beb5277bbd": "【高危漏洞预警】SUSE 15 PAM本地提权漏洞（CVE-2025-6018）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484679&idx=1&sn=ccaffdcd00b07f198b98052823993e9f": "用友nc saveProDefServlet SQL注入漏洞"
 }
