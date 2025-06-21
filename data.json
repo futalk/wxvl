@@ -15460,5 +15460,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491887&idx=1&sn=9ff34f6a8268dc8d3ef275b757095ecd": "用友U8 GRP listSelectDialogServlet SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491878&idx=1&sn=b19405b171f8932d27c8f7da700755cc": "用友U8 GRP obr_zdybxd_check.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573602&idx=1&sn=77224eed21d8cda16951c6625301e580": "一次从0到1的逻辑漏洞挖掘之旅",
-    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247514353&idx=1&sn=5c7d300ec9d9a430e72c274cd5bb7bac": "漏洞挖掘：巧用查询功能深挖敏感信息的门道"
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247514353&idx=1&sn=5c7d300ec9d9a430e72c274cd5bb7bac": "漏洞挖掘：巧用查询功能深挖敏感信息的门道",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjYyMjA3Mg==&mid=2247485489&idx=1&sn=fcc1f9e7d998433c8f71cba54982f0d6": "Se8_Sorcery(user部分)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484712&idx=1&sn=02ff86815b2cb114cbfcea520ff2db51": "内网横行：CVE-2025-33073漏洞分析与攻击复现"
 }
