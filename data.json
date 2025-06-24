@@ -15558,5 +15558,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506770&idx=1&sn=b43532f3f972ae1cc74a3ac4cf9c3ff4": "破解 JWT：漏洞赏金猎人指南（第二部分）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583238&idx=2&sn=353765459c0cc7e6976ff211a8b1eab9": "超过46000个Grafana实例暴露于账户接管漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开"
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "【CVE‑2025‑49144】Notepad++提权漏洞"
 }
