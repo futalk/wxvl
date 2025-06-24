@@ -15555,5 +15555,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596239&idx=3&sn=d782404acf8421ef63b6789bd3a99a90": "WinRAR现高危漏洞，恶意文件可致远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501221&idx=2&sn=4a833bc0c5b81084001551c46f420b29": "【漏洞通告】Notepad++ v8.8.1安装程序特权提升漏洞 (CVE-2025-49144)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506770&idx=1&sn=b43532f3f972ae1cc74a3ac4cf9c3ff4": "破解 JWT：漏洞赏金猎人指南（第二部分）"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506770&idx=1&sn=b43532f3f972ae1cc74a3ac4cf9c3ff4": "破解 JWT：漏洞赏金猎人指南（第二部分）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583238&idx=2&sn=353765459c0cc7e6976ff211a8b1eab9": "超过46000个Grafana实例暴露于账户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开"
 }
