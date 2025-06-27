@@ -15660,5 +15660,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486414&idx=1&sn=0a30583b5f6863c054c3cc7d338ec2c7": "目录遍历漏洞扫描工具 - Directory-Traversal-Scanner",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=2&sn=d589b77eb9be15ec2ad03480d601ade3": "Open VSX Registry中的严重漏洞可用于发动供应链攻击，影响数百万开发人员",
     "https://mp.weixin.qq.com/s?__biz=MzIwNTU1NjYwNA==&mid=2247488098&idx=1&sn=606e1b3436b86a4d87471c8897423c14": "IoT漏洞挖掘中常见的协议",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=1&sn=6155e41bcc07bb70bcdcdd88cc88d8de": "思科提醒注意 ISE 中的满分 RCE 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523394&idx=1&sn=6155e41bcc07bb70bcdcdd88cc88d8de": "思科提醒注意 ISE 中的满分 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复"
 }
