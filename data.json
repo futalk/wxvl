@@ -15680,5 +15680,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497783&idx=1&sn=f49fc7ca0cb8d8027c5bcdb60b1a2ac4": "$10,000的RCE！​​",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521429&idx=1&sn=dd050c73cd8db8d9b702b190136ec88a": "shiro反序列化漏洞原理分析",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491941&idx=1&sn=1be6e8f7856cb6fcf191a6d1858210d5": "H3C ER2200G2路由器 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531421&idx=2&sn=1d5a42294204b71b9c78d6eeb6e30e77": "区块幽灵：以太坊共识漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489259&idx=1&sn=289b70216c1df342d2d2f5405f38c0f1": "有限路径遍历 RCE 之旅，赏金 40,000 美元！"
 }
