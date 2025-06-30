@@ -15688,5 +15688,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324021&idx=3&sn=758ad58f02fcc6eda8eddbd10a0dcc4c": "思科两处高危RCE漏洞可致未授权获取root权限",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=2&sn=0bdd6716511352a19ae6a051668361dd": "思科 ISE 漏洞允许远程攻击者执行恶意命令",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NDI0NjMxMQ==&mid=2247483874&idx=1&sn=8d3f7ea725620fc6df9225b77fcb9d28": "记一次某开源组件反序列化漏洞原理分析，注入内存马getshell"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDI0NjMxMQ==&mid=2247483874&idx=1&sn=8d3f7ea725620fc6df9225b77fcb9d28": "记一次某开源组件反序列化漏洞原理分析，注入内存马getshell",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492211&idx=1&sn=ca61e1e2c66aa791d47341f4e51f1e97": "【渗透测试】契约锁JDBC RCE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络"
 }
