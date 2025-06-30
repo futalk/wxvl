@@ -15703,5 +15703,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=2&sn=a3d57d6619d987a8d64a725f1bc82373": "CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500308&idx=2&sn=5892f8b52a771f2d914c832127c90ab4": "Synology Active Backup for Microsoft 365 高危漏洞剖析",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507825&idx=1&sn=c8163fc109580e2fd0b793a34118ae75": "微步情报局再次发现DataEase存在多个高危漏洞，可实现RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "CNVD漏洞周报2025年第24期"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "CNVD漏洞周报2025年第24期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=1&sn=cb7aa62c4cda3c38d7fe2d23d4d77b49": "【漏洞复现】CVE-2025-33073｜Windows SMB 权限提升漏洞"
 }
