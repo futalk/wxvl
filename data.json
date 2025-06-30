@@ -15692,5 +15692,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492211&idx=1&sn=ca61e1e2c66aa791d47341f4e51f1e97": "【渗透测试】契约锁JDBC RCE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493032&idx=1&sn=446bce08c989729bf517668ad0f60683": "python POC发包高级技巧",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494128&idx=1&sn=14ac134a9a5dc55bd6576bea8e8efadf": "黑客利用Open VSX Registry漏洞掌控数百万开发者环境",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486716&idx=2&sn=922373703dcf59975e7e70f3a5ec6934": "看完这篇再挖不到漏洞，请顺着网线来砍我",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489822&idx=1&sn=ac39a8e743ae577a5588eb193172e641": "契约锁电子签章系统RCE简单分析"
 }
