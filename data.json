@@ -15707,5 +15707,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=1&sn=cb7aa62c4cda3c38d7fe2d23d4d77b49": "【漏洞复现】CVE-2025-33073｜Windows SMB 权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788743&idx=1&sn=e35ebfc8a2f78e9033198fdd30536501": "拖拉机也能被黑？全球4.6 万台农机曝远程操控漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583407&idx=2&sn=35c3e8e7c3d51d50a86d12456ac1b819": "安全动态回顾|工信部对57款存在侵害用户权益行为的APP（SDK）进行通报 Brother打印机在689款型号中存在漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=2&sn=06d53998d9241762baedba11484d462b": "上周关注度较高的产品安全漏洞(20250623-20250629)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=2&sn=06d53998d9241762baedba11484d462b": "上周关注度较高的产品安全漏洞(20250623-20250629)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499979&idx=1&sn=e62c7b512a2e3f57f702c815e19235da": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490329&idx=1&sn=7a5a2c55b2fbbb3fa44d710232beeb33": "【高危漏洞预警】Apache Seata反序列化漏洞(CVE-2025-32897)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486072&idx=2&sn=d8ec0d298fa5cdf2eec24a47363cad59": "网络摄像头漏洞扫描工具"
 }
