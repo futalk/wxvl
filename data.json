@@ -15733,5 +15733,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490527&idx=1&sn=38615bfc7507a4ef985d194745d2df4c": "广联达远程代码执行代码审计",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487528&idx=1&sn=30eebba649d6c713043d17db3ea68364": "Cisco ISE ERS ​​API CVE-2025-20281 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485804&idx=1&sn=aac724da59eb2431e4883e1384ba7310": "重生之hw 0day出自我的cnvd"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485804&idx=1&sn=aac724da59eb2431e4883e1384ba7310": "重生之hw 0day出自我的cnvd",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=3&sn=ffe4d01494f91fdfb954e714686d7dc2": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "CISA 提醒注意 Microsens 中的多个严重漏洞"
 }
