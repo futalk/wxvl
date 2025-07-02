@@ -15719,5 +15719,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492309&idx=1&sn=971b6609659bdf8e5a1c6cd2c264177b": "SRC 视角下：渗透测试中的逻辑漏洞思路博弈",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555326&idx=2&sn=cebb6d2e0961666408a1b3ae0bc5cac4": "【免费领】新手必备！Web安全漏洞挖掘实战入门教程",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489169&idx=1&sn=12e8f36dd27a550376215017f2cf31bd": "漏洞通告：Sudo Host 选项本地权限提升漏洞（Elevation of Privilege）",
-    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布"
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489170&idx=1&sn=3748f66988afa0fa303cbba4baa2bc5a": "漏洞通告：Sudo chroot 权限提升漏洞（Elevation of Privilege）",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开"
 }
