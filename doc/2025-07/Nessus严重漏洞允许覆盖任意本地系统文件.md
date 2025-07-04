@@ -1,120 +1,56 @@
 #  Nessus严重漏洞允许覆盖任意本地系统文件  
- FreeBuf   2025-07-02 11:03  
+ WIN哥学安全   2025-07-03 02:00  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/1mtwZURvGTmgC4svNmBCRaQFsDERqdGczTHfyvHUiaXwFaSicibFe3Y94rVM016NicgFAFFeStJM42cAMfoz6jOsMg/640?wx_fmt=png&from=appmsg "")  
   
+**Nessus**  
+‌是由Tenable Network Security开发的‌**系统漏洞扫描与分析软件**  
+‌，自1998年发布以来已成为全球超过75,000家机构的首选安全工具。其核心功能包括实时漏洞检测、跨平台部署、低误报率及丰富的预配置模板，广泛应用于网络安全评估和渗透测试领域。‌‌  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ib2oZzz7fu5ib8DRjTvSTx5XiaLrg6GicG561vrZTg7ibmdwWj0mtc0VWVnZojQUsN9QjFknTSRqVvGOQ/640?wx_fmt=png&from=appmsg "")  
+‌**核心功能与特点**  
+‌  
+1. ‌**漏洞扫描能力**  
+‌  
   
+1. 实时更新漏洞数据库，覆盖超过20万种威胁类型，误报率低至0.32次/百万次扫描（6西格玛标准）。‌‌  
   
-Tenable最新发布的安全公告披露了Nessus漏洞扫描器中存在的严重漏洞，攻击者可能通过权限提升攻击危害Windows系统。  
+1. 支持本地与远程扫描，可针对IP、域名及特定端口进行深度检测。‌‌‌‌  
   
+1. ‌**技术架构**  
+‌  
   
-这些安全漏洞影响10.8.5之前的所有Nessus版本，包括一个关键的Windows特定漏洞(CVE-2025-36630)以及第三方组件libxml2和libxslt中的两个额外漏洞。  
+1. 采用客户端/服务器模式，支持Windows、Linux、macOS及树莓派等平台部署。‌‌  
   
+1. 插件化设计，每个漏洞对应独立NASL脚本，便于灵活更新与管理。‌‌  
   
-**Part01**  
-## 漏洞概要  
+1. ‌**应用场景**  
+‌  
   
-```
-1、CVE-2025-36630
-```  
-```
-CVSSv3评分：8.4，影响Nessus 10.8.4及更早版本，允许提升至SYSTEM权限)
-CVSSv3评分：8.4，
-```  
-```
-2、CVE-2025-6021
-```  
-```
-CVSSv3评分：6.5，影响Nessus 10.8.4及更早版本，Nessus底层XML处理功能使用的libxml2第三方组件漏洞
-CVSSv3评分：6.5，
-CVSSv3评分：6.5，
-
-```  
-```
-```  
-```
-3、CVE-2025-24855
-3、CVE-2025-24855
-CVE-2025-24855
-```  
-```
-CVSSv3评分：7.8，影响Nessus 10.8.4及更早版本，Nessus XSLT转换操作使用的libxslt第三方组件漏洞  
-CVSSv3评分：7.8，影响Nessus 10.8.4及更早版本，Nessus XSLT转换操作使用的libxslt第三方组件漏洞  
-CVSSv3评分：7.8，影响Nessus 10.8.4及更早版本，Nessus XSLT转换操作使用的libxslt第三方组件漏洞  
-CVSSv3评分：7.8，
-CVSSv3评分：7.8，
-CVSSv3评分：7.8，
-Nessus 10.8.4及更早版本，Nessus XSLT转换操作使用的libxslt第三方组件漏洞  
-  
-  
-```  
-```
-
-
-
-```  
+1. ‌**企业安全评估**  
+‌：通过450+预置模板快速识别网络、系统和应用层漏洞。‌‌  
   
-这些漏洞的CVSS评分介于6.5至8.4之间，对依赖Nessus进行安全评估的组织构成重大威胁。  
+1. ‌**渗透测试**  
+‌：集成于Kali Linux等安全工具链，用于模拟攻击验证系统防护能力。‌‌‌‌  
+  
+😱 **严重漏洞曝光**  
+- Tenable发布的安全公告显示，Nessus漏洞扫描器存在严重安全漏洞，攻击者可通过提权攻击危及Windows系统。  
+  
+- 受影响的是所有10.8.5版本之前的Nessus，包括一个特定于Windows的关键漏洞（CVE - 2025 - 36630），以及第三方组件libxml2和libxslt的两个漏洞。  
+  
+📋 **漏洞详情**  
+- **CVE - 2025 - 36630**  
+：可将权限提升到SYSTEM级别（CVSSv3评分8.4），非管理员用户能以SYSTEM权限覆盖任意本地系统文件。攻击向量为本地访问，复杂度低，无需用户交互，范围为“Changed”。该漏洞由安全研究员Rishad Sheikh于2025年5月10日发现并报告给Tenable。  
+  
+- **CVE - 2025 - 6021**  
+：存在于libxml2组件，CVSSv3基础评分6.5，攻击向量需网络访问和低权限凭证。  
+  
+- **CVE - 2025 - 24855**  
+：存在于libxslt组件，CVSSv3基础评分7.8，需本地访问，攻击复杂度高，无需用户权限。  
+  
+💡 **修复措施**  
+- Tenable将libxml2升级到2.13.8版本，libxslt升级到1.1.43版本以修复相关漏洞，其中CVE - 2025 - 6021的修复已被移植到Nessus 10.8.5中的libxml2版本。  
+  
+- 受影响的组织应立即通过Tenable下载门户将Nessus升级到10.8.5或10.9.0版本。Tenable在确认报告后约两个月发布了补丁，系统管理员应在维护窗口期间验证并实施安全更新。  
   
   
-**Part02**  
-### Windows权限提升漏洞  
-  
-  
-最严重的漏洞编号为CVE-2025-36630，影响10.8.4 及之前版本的Windows系统Nessus安装。该高危漏洞使非管理员用户能够利用日志内容以SYSTEM权限覆盖任意本地系统文件，实质上允许权限提升攻击。该漏洞CVSSv3基础评分为8.4，属于高严重性级别，具有重大潜在影响。  
-  
-  
-该漏洞的攻击向量被描述为需要本地访问且复杂度低(AV:L/AC:L/PR:L/UI:N/S:C/C:N/I:H/A:H)，表明攻击者需要低级别权限但无需用户交互即可利用该漏洞。影响范围标记为"已更改"，意味着该漏洞可能影响超出其原始安全上下文的资源。安全研究员Rishad Sheikh于2025年5月10日向Tenable报告了该关键漏洞。  
-  
-****  
-**Part03**  
-### 第三方组件更新  
-  
-  
-除Windows特定漏洞外，Tenable还修复了为Nessus平台提供核心功能的底层第三方软件组件中的安全缺陷。该公司已将libxml2升级至2.13.8版本，libxslt升级至1.1.43版本，以修复已识别的漏洞CVE-2025-6021和CVE-2025-24855。  
-  
-  
-CVE-2025-24855的基础评分为7.8，需要本地访问且攻击复杂度高，但无需用户权限(AV:L/AC:H/PR:N/UI:N/S:C/C:N/I:H/A:H)。  
-  
-  
-CVE-2025-6021的CVSSv3基础评分为6.5，攻击向量需要网络访问和低权限凭据(AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H)。  
-值得注意的是，针对CVE-2025-6021的修复已专门反向移植到Nessus 10.8.5中的libxml2 2.13.8版本实现中。  
-  
-  
-**Part04**  
-### 缓解措施  
-  
-  
-运行受影响Nessus版本的组织应优先通过Tenable下载门户立即更新至10.8.5或10.9.0版本。漏洞披露时间线显示Tenable处理效率较高，在报告后18天内确认问题，并在初始披露约两个月后发布补丁。  
-  
-  
-系统管理员应验证当前的Nessus安装情况，并在计划维护窗口期间实施安全更新。鉴于高严重性评级和权限提升的可能性，组织应将这些更新视为关键安全补丁，需要加速在所有基于Windows的Nessus安装中部署。  
-  
-  
-**参考来源：**  
-  
-Nessus Windows Vulnerabilities Allow Overwrite of Arbitrary Local System Files  
-  
-https://cybersecuritynews.com/nessus-windows-vulnerabilities/  
-  
-  
-###   
-###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
-  
-  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
-  
-   
   
