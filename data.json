@@ -15773,5 +15773,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497805&idx=1&sn=8e219abdc3c2828bd937f2aaa04b6cd7": "7个让我赚取漏洞赏金的技巧",
-    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)"
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514631&idx=1&sn=fd5a357122fb4f7943b832c639bc9e1a": "MCP工具链首个严重漏洞？一个钓鱼网页，远程劫持开发者电脑"
 }
