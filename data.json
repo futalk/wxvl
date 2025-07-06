@@ -15795,5 +15795,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500923&idx=1&sn=7eb27e3f909442571fa32be3a1dab150": "【2025护网漏洞POC速存】吃苕皮喝挪瓦，HW轻松拿捏",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489900&idx=2&sn=979cd2b43277c825490a986e33c78693": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484411&idx=1&sn=219cff6f844ff1b4d4f3a7c23eebf135": "【漏洞复现】0day-网关系统存在信息泄露漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484411&idx=1&sn=219cff6f844ff1b4d4f3a7c23eebf135": "【漏洞复现】0day-网关系统存在信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=1&sn=64834d89e32ec56e08e86ecd3aafc82b": "攻击者通过滥用暴露的 Java 调试线协议 (JDWP) 接口实现远程代码执行，部署挖矿",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载"
 }
