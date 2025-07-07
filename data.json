@@ -15808,5 +15808,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506926&idx=1&sn=20eed566beba200c7dd2651d3bca29b0": "从开放重定向到内部访问：我的 SSRF 漏洞利用故事",
-    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷"
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489906&idx=3&sn=dcaf44d993e23b254f5a23de058b4a9b": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488240&idx=1&sn=7e86813f05930083c05546d69f31f925": "HW（2025-7-7）上午护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484336&idx=1&sn=a0934eb54b52c4ab1d0f4be169d78a19": "25HVV最新0day更新，各单位自查..."
 }
