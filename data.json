@@ -15811,5 +15811,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489906&idx=3&sn=dcaf44d993e23b254f5a23de058b4a9b": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488240&idx=1&sn=7e86813f05930083c05546d69f31f925": "HW（2025-7-7）上午护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484336&idx=1&sn=a0934eb54b52c4ab1d0f4be169d78a19": "25HVV最新0day更新，各单位自查..."
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484336&idx=1&sn=a0934eb54b52c4ab1d0f4be169d78a19": "25HVV最新0day更新，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546998&idx=1&sn=c3077c2a50dfec80de8f9e21b507ae53": "25HVV最新0day更新，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=2&sn=670e1a9a5783709fe9c44ad380ee9354": "通过带有 chroot 选项的 sudo 二进制文件将权限提升至 root CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=1&sn=cf6ac5c638e79ee6ab729793fb9d3380": "CentOS Web 面板中的远程代码执行 - CVE-2025-48703"
 }
