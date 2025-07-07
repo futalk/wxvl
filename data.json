@@ -15804,5 +15804,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636489&idx=4&sn=2133ab4c53798a33591c247a0492d1d0": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070525&idx=1&sn=7b6337e89711c9e9f413dd1cb303bd76": "【安全圈】Linux“sudo”严重漏洞：任何用户均可接管系统",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494179&idx=1&sn=1997151095977260707894ec476cabe6": "严重Sudo漏洞使主流Linux发行版面临本地提权攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506926&idx=1&sn=20eed566beba200c7dd2651d3bca29b0": "从开放重定向到内部访问：我的 SSRF 漏洞利用故事",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷"
 }
