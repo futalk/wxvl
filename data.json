@@ -15822,5 +15822,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=1&sn=a0eb976580ef5924a6411c6055618526": "CNVD漏洞周报2025年第25期",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487547&idx=1&sn=33033a7415fe3aabffa5f5711e51030a": "PHP 漏洞 CVE-2025-1735（SQLi∕崩溃）",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324515&idx=1&sn=e502828a52cb7663487c30f07c064387": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护"
 }
