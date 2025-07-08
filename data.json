@@ -15837,5 +15837,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500089&idx=1&sn=34735acc4543857c99268d52e2e5b501": "2025年人工智能大模型产品漏洞众测活动启动公告",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611336&idx=1&sn=d3b4dafc52898b6a1234f56e93de6c7e": "境外势力入侵校园网络广播！详情披露→|Redis被曝三大严重安全漏洞，PoC代码已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247493268&idx=1&sn=e6a6c7d012105e29b1c1ae2c4c3aa1de": "CVE-2025-6018 and CVE-2025-6019 本地提权"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODc2NTg1OA==&mid=2247493268&idx=1&sn=e6a6c7d012105e29b1c1ae2c4c3aa1de": "CVE-2025-6018 and CVE-2025-6019 本地提权",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492859&idx=1&sn=66a45e4f38874a4b0c0e0d9f5234dfe9": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484356&idx=1&sn=036e2e4f00b5faca357006054047cfcf": "25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)"
 }
