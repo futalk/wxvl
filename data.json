@@ -15830,5 +15830,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486373&idx=1&sn=cb9472d2b19d13e571b914bc08c811b2": "高危Sudo漏洞（CVE-2025-32463，CVSS 9.3）：可提权至root并绕过主机限制，PoC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=1&sn=283a447765d9d0ef01abc0bf3fd76fab": "漏洞预警 | IBM WebSphere远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487380&idx=1&sn=97a0b83bda621fc068565f70a79b4ed8": "漏洞管理：企业安全的生命线",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484703&idx=1&sn=cef647655b1d164daa9a84854dc90034": "Prometheus 未授权访问漏洞处理"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484703&idx=1&sn=cef647655b1d164daa9a84854dc90034": "Prometheus 未授权访问漏洞处理",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492070&idx=1&sn=a76b100b910f393235352f1b7824dc12": "汉王EFaceGo upload.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补"
 }
