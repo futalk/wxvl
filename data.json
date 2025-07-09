@@ -15870,5 +15870,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "CVE-2024-0582 内核提权详细分析",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=1&sn=48ab394f77cef01caa709b6988d5a145": "漏洞预警 | PHPStudy后门漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=1&sn=48ab394f77cef01caa709b6988d5a145": "漏洞预警 | PHPStudy后门漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=3&sn=1221ce55fb0740963a6b753ce6508465": "漏洞预警 | WebOne劳动力与考勤管理软件任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507831&idx=1&sn=0494cdb26d682d39f195fa3ebed8fef8": "收漏洞！收X情报社区的漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490818&idx=1&sn=b8b5e7f8dc6be896a96fc042718d0e5f": "【SRC】某平台毕业季开房优惠卷逻辑漏洞（红姐邀请你进房间）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324666&idx=3&sn=ee5583eca517c2e940909cfa2b32ad1e": "Git项目修复三大漏洞：远程代码执行、任意文件写入与缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463237&idx=1&sn=2ccd156619f853e3ed9db2755c57c01c": "信息安全漏洞周报（2025年第27期）"
 }
