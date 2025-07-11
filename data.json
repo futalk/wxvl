@@ -15922,5 +15922,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535507&idx=1&sn=aa8fe2a260fb9665fcc45a09e0579751": "【漏洞预警】：Redis hyperloglog 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550870&idx=1&sn=a8857963542ca382f89e8d8dddc4863f": "某面板组合拳前台RCE分析",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523537&idx=2&sn=5d168afda91b79b08357b3c4cc3f579d": "Splunk 修复 SOAR 版本中的第三方包漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=1&sn=c3170ccca7509e132f790f5050e51312": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490470&idx=1&sn=76647e3cbc939582e3fa73101fc442f4": "【已复现】契约锁电子签章系统存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485271&idx=1&sn=9bd6f0e52177bd802a736f7c9ed39a53": "123456当密码？！麦当劳AI招聘工具McHire漏洞导致6400万求职者数据泄露"
 }
