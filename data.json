@@ -15918,5 +15918,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489375&idx=1&sn=b195a66251f8d745a9b694d84fc322ca": "滥用 Windows、.NET 特性和 Unicode 规范化漏洞攻击 DNN (DotNetNuke)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491738&idx=1&sn=86ea41746ad2eb27f67c42848d53149a": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月10日",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494220&idx=1&sn=472c1cff94843a229b6f809057d46bb9": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494220&idx=1&sn=472c1cff94843a229b6f809057d46bb9": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535507&idx=1&sn=aa8fe2a260fb9665fcc45a09e0579751": "【漏洞预警】：Redis hyperloglog 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550870&idx=1&sn=a8857963542ca382f89e8d8dddc4863f": "某面板组合拳前台RCE分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞"
 }
