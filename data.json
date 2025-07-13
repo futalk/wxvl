@@ -15955,5 +15955,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487647&idx=1&sn=0568c440e430ad84c661d9862760d84d": "漏洞利用 | 用友NC IMetaWebService4BqCloud数据源SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324804&idx=3&sn=859f6647543d5b23c0064c147c9cec34": "FreeBuf周报 | Redis被曝三大严重安全漏洞；AMD新型漏洞影响多款CPU",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500966&idx=1&sn=88491b4e0826eff5e55d75c27ea04ec3": "微信出了XSS漏洞？？？点击自动发送消息"
 }
