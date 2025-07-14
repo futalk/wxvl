@@ -15966,5 +15966,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483910&idx=1&sn=ddd1317a978088995b6a1ebd87b17f71": "【已复现】用友NC FormItemServlet方法存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480563&idx=1&sn=4a7bad3b21c045e07a6af0044e20f2d8": "秦安：强烈的信号！将8家台湾实体列入出口管制，堵住天大的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=4&sn=4e7c93291c55d089867addbbd0436070": "【安全圈】Trendyol 披露 Meta 存在漏洞：Prompt Injection 成功率高达 50%",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324823&idx=1&sn=8d5de62308fd7ccffed1006c49b4d88f": "研究人员利用提示注入漏洞绕过Meta的Llama防火墙防护"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324823&idx=1&sn=8d5de62308fd7ccffed1006c49b4d88f": "研究人员利用提示注入漏洞绕过Meta的Llama防火墙防护",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=3&sn=7db531b9433fd791810acb9fb8c3bdef": "Fortinet FortiWeb 面临全面接管风险 (CVE-2025-25257)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击"
 }
