@@ -15977,5 +15977,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503607&idx=1&sn=44581e3d24968215d02fb7b63ed254d6": "安全热点周报：Fortinet 公开 FortiWeb 中的严重预身份验证 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507845&idx=1&sn=ba7dab99c2bbcdc4ee180575e33e2add": "漏洞通告 | 用友U9 Cloud 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484960&idx=1&sn=758111b66d24a67e66a0aeeab9bb191c": "安全漏洞防治工作标准化的必要性：抵御不断演变的威胁之盾",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484073&idx=1&sn=10cba60d947ef1c2c9a8e764c6ef1076": "最近刷屏的“微信XSS漏洞”原理是什么？"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484073&idx=1&sn=10cba60d947ef1c2c9a8e764c6ef1076": "最近刷屏的“微信XSS漏洞”原理是什么？",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573973&idx=1&sn=ecf5cfbabe7a1b50a40ab8d6aa8a0324": "整理一些挖SRC必须知道的漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=2&sn=48c5a098c1fb64e52d12ffeb8309e9b1": "【安全圈】WinRAR现0day高危漏洞：地下黑客叫价8万美元，数亿Windows用户面临远程攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行"
 }
