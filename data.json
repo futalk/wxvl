@@ -16013,5 +16013,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=2&sn=f92e83da511bb4652e239c42897f2491": "一键获取上万份资料和漏洞情报的资源情报网站",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733722&idx=1&sn=2a5cc95ac03a82d96334bb722b65da1f": "攻防演练利器：启明星辰天镜漏扫精准狙击高危漏洞！",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497892&idx=1&sn=a1df282edd7c66180e2301060336e771": "如何使用 Frida 漏洞利用加密移动 API 中的 IDOR"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497892&idx=1&sn=a1df282edd7c66180e2301060336e771": "如何使用 Frida 漏洞利用加密移动 API 中的 IDOR",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE"
 }
