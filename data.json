@@ -16021,5 +16021,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490033&idx=1&sn=cd1fba8e57dcd48a6f8a36cb63e8a19f": "一个实时更新的漏洞裤",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494279&idx=1&sn=932e75f14dcf30d997a865d551100152": "CVE-2025-6554标志着谷歌在2025年修复的第五个被主动利用的Chrome零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488103&idx=1&sn=a56fa96efb3c33bba24c7ae3261ce6e7": "web安全 - SQL注入漏洞深度详解",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611454&idx=4&sn=9ba81f464170a0d7410456045e153a05": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493489&idx=1&sn=d3ef10a1ae3b8c161d7174cb42702fac": "【宝典】针对若依系统nday的常见各种姿势利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488477&idx=1&sn=bfde8c4971f0b8b052a8eb97550e957a": "Hutool路径遍历漏洞（CVE-2018-17297）分析报告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486206&idx=1&sn=54ac4aeb8ed3a97da9e43223f1b071af": "XBOW 发现Wordpress 任意文件读取漏洞的过程"
 }
