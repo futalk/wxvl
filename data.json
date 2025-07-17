@@ -16041,5 +16041,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247532377&idx=2&sn=8675b7e1c0b2211c3c1b5d4a22d28fa9": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496130&idx=1&sn=f9bf39ffb23c2b16744cffcc11b43ccd": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=1&sn=65722e141134d410b44b7a3bb6536ff5": "【高危漏洞预警】Oracle WebLogic Server 未授权访问漏洞(CVE-2025-30762)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=1&sn=65722e141134d410b44b7a3bb6536ff5": "【高危漏洞预警】Oracle WebLogic Server 未授权访问漏洞(CVE-2025-30762)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=3&sn=73d9b37152bd0c34f1e681d9675bc126": "【漏洞通告】Google Chrome 沙箱逃逸漏洞(CVE-2025-6558)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531773&idx=2&sn=87c094ebed1fc43d49cbe8426e57d36b": "探索 Node.js 中的零日漏洞：CVE-2025-27210",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488062&idx=1&sn=459cb7ef4a17d8e49db48010e6c6badf": "漏洞预警 | Linux sudo本地提权漏洞（CVE-2025-32462、CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494304&idx=1&sn=24b77ad7adcfcdc3dbeddc75f3a8ce32": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278663&idx=1&sn=913f8c22fe39ceb1c95a3181faf1b602": "安全自检，快人一步！—— 近期攻防演练热点漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=3&sn=2ef9f5b48a5e4cc585fa2555af0fd05f": "Git CLI高危任意文件写入漏洞曝光，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247487071&idx=1&sn=449a01cf695ea85b26246981212e2483": "挖SRC必须知道的25个漏洞提交平台"
 }
