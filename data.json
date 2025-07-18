@@ -16057,5 +16057,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494291&idx=1&sn=d82033fb3b45f8ee834fa7a4aecc2221": "思科修复身份服务引擎中CVSS 10分高危漏洞CVE-2025-20337",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
     "https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247498996&idx=1&sn=a52abe5d42325669cf592bee26abf77a": "2025 Verizon DBIR解读 | 供应链攻击30%+勒索软件44%：边缘设备漏洞与AI滥用催生新风险",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138069&idx=2&sn=535ea85e8092f28f192814ef324c3286": "研究显示：四分之三的美国青少年不顾风险使用AI伴侣；CNNVD关于Oracle多个安全漏洞的通报 | 牛览"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138069&idx=2&sn=535ea85e8092f28f192814ef324c3286": "研究显示：四分之三的美国青少年不顾风险使用AI伴侣；CNNVD关于Oracle多个安全漏洞的通报 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494381&idx=1&sn=9479a78d8c384f3dbef8e922d36858ba": "【全球首发】智能体安全实践报告完整内容公开，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900981&idx=1&sn=7193267d6a1eda3a431e9274ea71b2ad": "一个字符引发的血案：Wing FTP服务器漏洞(CVE-2025-47812)正被全球利用",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=4&sn=def91ead440f78d348db5fd03eb51f18": "SonicWall SMA设备零日RCE漏洞遭利用，部署OVERSTEP勒索软件",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574036&idx=1&sn=d5ebf7d79a401f316d47e289ace1f87f": "【SRC实战】支付逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼"
 }
