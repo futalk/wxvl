@@ -16065,5 +16065,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521903&idx=1&sn=1fd7e0366f5859e4c0707a8c6325bcaa": "一键触发漏洞：Oracle云代码编辑器RCE漏洞允许攻击者上传恶意文件",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "NVIDIA 容器工具包允许攻击者执行特权代码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514705&idx=2&sn=ed3298db2e4591a6131808dc09a0ecb4": "CNCERT：关于Google Chrome V8存在类型混淆漏洞的安全公告"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514705&idx=2&sn=ed3298db2e4591a6131808dc09a0ecb4": "CNCERT：关于Google Chrome V8存在类型混淆漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报"
 }
