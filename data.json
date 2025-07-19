@@ -16071,5 +16071,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555499&idx=1&sn=f55fba0243e6ea5428e082e3da30a95f": "渗透测试高手-漏洞挖掘中的隐藏陷阱",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490465&idx=1&sn=798252ff23b627acb67f5d6d67f927ec": "【高危漏洞预警】NVIDIA Container Toolkit 容器逃逸漏洞CVE-2025-23266",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526106&idx=1&sn=9781b8699615f28887ac43f49d7bc1a7": "微信安全漏洞复现：无感执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247485300&idx=1&sn=12af35651ea2aa886ca0cb33d243f0b1": "【LYSRC漏洞挖掘大赛】夏日攻坚行动，双倍积分+现金奖励等你拿！",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492628&idx=1&sn=6328dbcbf1e55c176f7181178a068c63": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325149&idx=1&sn=a96d58d36336bf2c82920a7e1f872749": "NVIDIA Container Toolkit漏洞可导致权限提升任意代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=2&sn=c7cc15872799f6b7c9dcee62f1ced6e6": "谷歌AI “Big Sleep” 提前阻止严重的SQLite 漏洞遭利用"
 }
