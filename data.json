@@ -16070,5 +16070,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492884&idx=1&sn=06c9c888b83ac5f3d08b8dc4cc2548e0": "【风险提示】VMware ESXi、Workstation、Fusion及Tools多个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555499&idx=1&sn=f55fba0243e6ea5428e082e3da30a95f": "渗透测试高手-漏洞挖掘中的隐藏陷阱",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490465&idx=1&sn=798252ff23b627acb67f5d6d67f927ec": "【高危漏洞预警】NVIDIA Container Toolkit 容器逃逸漏洞CVE-2025-23266"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490465&idx=1&sn=798252ff23b627acb67f5d6d67f927ec": "【高危漏洞预警】NVIDIA Container Toolkit 容器逃逸漏洞CVE-2025-23266",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487737&idx=1&sn=cbb6a1cb0b5f83638f71454a5ffba8d4": "用友OA系统U8Cloud FilterCondAction SQL注入漏洞分析"
 }
