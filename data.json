@@ -16123,5 +16123,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490236&idx=1&sn=39ed76d3bfcabdd4def2ba2bd953ba5c": "某诈骗微盘存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=1&sn=522969c64e7e97b9653ead4faf6c2488": "【安全圈】微软服务器软件被曝严重安全漏洞，黑客借此在全球发起攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490189&idx=1&sn=8931feffa6930193a9832388783f7688": "【漏洞情报】联想电脑管家存在远程命令执行漏洞 | 联想电脑管家RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650990970&idx=1&sn=70703fd989d5db86ff515653bf9aaf50": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488342&idx=1&sn=13c7a552f3f257e728b02b065e002ba2": "HW（2025-7-21）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260356&idx=1&sn=8c35649fee80bddd9924b08f386bdcaf": "为何必须突破工具漏洞清单思维，照亮安全盲区",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484516&idx=1&sn=3872d7dfca4a596395b59d3c9c0bee98": "25HVV丨联想电脑管家执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487598&idx=1&sn=ea41e76ec767e519046d6ce0caf0f8d1": "FortiWeb CVE-2025-25257",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "挖掘特斯拉Model 3上价值1w美元的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链"
 }
