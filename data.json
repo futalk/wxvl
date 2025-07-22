@@ -16133,5 +16133,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "挖掘特斯拉Model 3上价值1w美元的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498183&idx=4&sn=c6af42bb31bf4a81149823c3a900f7f1": "微软服务器软件被曝严重安全漏洞 黑客借此在全球发起攻击",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=3&sn=621c57d342dcd528d60aff9d87fe6719": "漏洞预警 | Oracle数据库远程接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=2&sn=d05638243e08a279721358efe3e21bb0": "【安全圈】英伟达漏洞致AI与机器人平台面临远程代码执行和数据泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=2&sn=cc080e4dacc81a264d47a38d4d78fd29": "漏洞预警 | Oracle WebLogicServer 未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486451&idx=1&sn=f44225b916411ae0b00384f443fafb35": "俄罗斯APT组织加剧欧洲攻击：零日漏洞与数据擦除器齐上阵"
 }
